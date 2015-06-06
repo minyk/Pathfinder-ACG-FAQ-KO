@@ -5,4 +5,4 @@
 
 * 같이 참여 하실 분들은 fork 하셔서 수정하신 다음에 PR을 보내주세요!
 
-# 스컬 & 새클스 FAQ[https://github.com/minyk/Pathfinder-ACG-FAQ-KO/blob/master/SnS-FAQ.md]
+# [스컬 & 새클스 FAQ](SnS-FAQ.md)
