@@ -9,82 +9,83 @@ Last updated: June 05, 2015. Items updated in the past month are displayed in re
 
 ## 어드벤처 패스의 첫 번째 챕터를 시작하기 전에 클래스 0 배 프로모션 카드를 박스에 추가할 수 았는지 없는지 모르겠습니다(I'm confused about whether or not I can add Class 0 ship promo cards to the box before I begin the first chapter of the Adventure Path).
 
-함대 카드에 동일한 클래스의 다른 배를 체크하자마자 바로 프로모션 배 카드를 추가할 수 있습니다(You can add a ship promo card as soon as you have another ship of the same class checked off on your fleet card).
+함대 카드에 동일한 클래스의 다른 배를 체크하자마자 바로 프로모션 배 카드를 추가할 수 있습니다.
 
-해결 방법: 규칙책 4쪽의 마지막 문단을 다음으로 교체합니다(Resolution: On page 4 of the rulebook, replace the last paragraph above Organizing Your Cards with the following):
+> You can add a ship promo card as soon as you have another ship of the same class checked off on your fleet card.
 
+> Resolution: On page 4 of the rulebook, replace the last paragraph above Organizing Your Cards with the following):
 > We have also published a number of promotional cards; these are marked with the letter P in the upper-right corner. If you have a character promo card, you can use it right away. If you have a ship promo card, as soon as you have checked off any ships of the same class on your fleet card, you may treat the promo card as if it has been checked off as well (see Place Your Party’s Ship on page 7). You shouldn’t add other promo cards to the game until you begin the first chapter of the Adventure Path.
 
 posted Sep 12, 2014 | back to top
 
 ## 시작 할 때 캐릭터의 페이버릿 카드를 받지 못 했고, 그리고 전체 덱을 사용했어도 유효한 시작 손 패를 얻지 못 했을 때 옆으로 치워 놓은 카드를 섞어서 쓸 수 있나요(If I don't draw my favored card type in my starting hand, but I don't go through my entire deck before I get a valid starting hand, do I get to shuffle in the cards I set aside while I was trying to get a valid hand)?
 
-당연히 그렇습니다(Of course! That would be a silly thing to penalize you for).
+당연히 그렇습니다.
 
-해결 방법: 규칙 책 7쪽의 시작 손 패를 얻는 규칙의 마지막 문자을 다음과 같이 교체합니다(Resolution: On page 7 of the rulebook, replace the last sentence of Draw Starting Hands with the following):
+> Of course! That would be a silly thing to penalize you for.
 
+> Resolution: On page 7 of the rulebook, replace the last sentence of Draw Starting Hands with the following:
 > If you discard so many cards that you can’t draw up to your full hand size, draw all the remaining cards, then shuffle your discard pile into your deck, and draw the rest of your hand. Once you have a full hand that includes your favored card type, shuffle any discarded cards back into your character deck.
 
 posted Sep 10, 2014 | back to top
 
 ## 움직(또는 카드를 주거나, 모험을 하거나 장소를 닫기)이지 않기로 했을 때에도 턴에는 이동(또는 카드는 주는, 모험을 하는, 장소를 닫는) 단계가 있나요? 움직일떄 받을 수 있는 어떤 불이익을 피하기 위해서 이동을 하지 않을 수 있나요(If I choose not to move (or give a card, or explore, or close a location), do I still have a move (or give a card, or explore, or close a location) step in my turn? If something bad would happen during my move step, can I avoid it by not moving)?
 
-아무 것도 하지 않아도 모든 단계는 존재 합니다. 안타깝지만 그렇게 쉽게 피할 수 없습니다(All steps exist, even if you don't do anything in them. Sorry—you don't get to avoid it that easily).
+아무 것도 하지 않아도 모든 단계는 존재 합니다. 안타깝지만 그렇게 쉽게 피할 수 없습니다.
 
-해결 방법: 규칙 책 8쪽 `당신의 턴` 항목에서 "The only required steps..." 문장을 삭제합니다(Resolution: On page 8 of the S&S rulebook, under Your Turn, delete the sentence that begins "The only required steps...").
+> All steps exist, even if you don't do anything in them. Sorry—you don't get to avoid it that easily.
+
+> Resolution: On page 8 of the S&S rulebook, under Your Turn, delete the sentence that begins "The only required steps...").
 
 posted Jan 5, 2015 | back to top
 
 ## 언제 쓸 수 있는지 써 있지 않는 파워가 있을 때 어떤 상황에서 얼마나 많이 쓸 수 있나요(If I have a power that doesn't say when it can be used, when, under what circumstances, and how many times can it be used)?
 
-파워를 쓸 수 있는 때마다 허용된 만큼 많이 사용할 수 있습니다. 만일 각 단계의 사이에서 사용한다면 몇 번이던 사용할 수 있습니다. 그렇지만 하나의 체크나 단계 동안에서는 단 한 번만 사용할 수 있습니다(Whenever you could otherwise use a power, when it makes sense, and as many times as is allowed. If you use it in between steps, you can use it any number of times. But if you use it during a check or step, only once).
+파워를 쓸 수 있는 때마다 허용된 만큼 많이 사용할 수 있습니다. 만일 각 단계의 사이에서 사용한다면 몇 번이던 사용할 수 있습니다. 그렇지만 하나의 체크나 단계 동안에서는 단 한 번만 사용할 수 있습니다.
 
-해결 방안: 규칙 책 8쪽의 `당신의 턴` 항목의 첫 번째 문단의 마지막에 다음을 추가합니다(Resolution: On page 8 of the S&S rulebook, under Your Turn, add the following to the end of the first paragraph): 
+> Whenever you could otherwise use a power, when it makes sense, and as many times as is allowed. If you use it in between steps, you can use it any number of times. But if you use it during a check or step, only once.
 
+> Resolution: On page 8 of the S&S rulebook, under Your Turn, add the following to the end of the first paragraph:
 > "You can play cards and use powers without limit in between these steps, as long as they don't say they can only be played at certain times."
 
 posted Jan 5, 2015 | back to top
 
 ## 현재 있는 장소로 이동할 수 있습니까(Can I choose to move to the location I'm currently at)?
 
-아니오. 무작위로 이동하는 몇몇 효과는 당신이 이미 있는 장소로 이동 시킬 수도 있지만, 이동 장소를 선택할 때에는 항상 다른 장소를 선택해야 합니다(No. Some effect may randomly move you to the location you're already at, but when you choose to move, you must always choose a different location).
+아니오. 무작위로 이동하는 몇몇 효과는 당신이 이미 있는 장소로 이동 시킬 수도 있지만, 이동 장소를 선택할 때에는 항상 다른 장소를 선택해야 합니다.
 
-해결 방법: 규칙 책 8쪽의 `이동` 항목에서 다음의 문장을 대체합니다:(Resolution: On page 8 of the rulebook, under Move, replace the parenthetical sentence):
+> No. Some effect may randomly move you to the location you're already at, but when you choose to move, you must always choose a different location.
 
-
+> Resolution: On page 8 of the rulebook, under Move, replace the parenthetical sentence:
 > If you do not move, your character is not considered to have entered or left a location
-
-에서
-
+> To
 > When you choose to move, you must always select a new location, although it is possible for some effects to move you to the same location you came from. If you do not change locations, your character is not considered to have entered or left a location.
 
 posted Apr 13, 2015 | back to top
 
 ## 자신의 탐험 단계가 아닌 떄에 탐험을 할 수 있습니까(Can I ever explore outside of my explore step)?
 
-아니오(No).
+아니오.
 
-해결 방법: 규칙 책 8쪽의 `탐험` 항목의 밑에서 다음의 문장을 변경합니다(Resolution: On page 8 of the rulebook, under Explore, change):
+> No.
+
+> Resolution: On page 8 of the rulebook, under Explore, change:
  
 > "You may never explore on another player's turn"
-
-에서
-
+> To
 > "You may never explore outside of your explore step".
 
 posted Feb 4, 2015 | back to top
 
 ## 카드에서 다시 탐험할 수 있다고 하는 경우, 탐험하기 전에 카드나 파워를 사용할 수 있나요? 그리고 카드에서 `다시 "즉시" 탐험`이라고 말하는 것과 차이가 있습니까(When a card tells me to explore again, can I play cards or use powers before I explore? And does it make a difference if the card says to "immediately" explore again)?
 
-아니오-양쪽 모두 당신이 다음에 할 수 있는 것은 탐험이며, 그 전에 다른 것은 할 수 없습니다(Nope—either way, the next thing you do is explore, and you can't do anything before that).
+아니오-양쪽 모두 당신이 다음에 할 수 있는 것은 탐험이며, 그 전에 다른 것은 할 수 없습니다.
 
-해결 방법: 규칙 책 9쪽의 문장에 다음을 더합니다(Resolution: On page 9 of the rulebook, following the paragraph that begins)
- 
+> Nope—either way, the next thing you do is explore, and you can't do anything before that.
+
+> Resolution: On page 9 of the rulebook, following the paragraph that begins)
 > "However, during a single exploration, no matter how many different effects allow you to explore again..."
-
-에
-
-> "If a card grants you an additional exploration, after you finish what you are doing, you must immediately use that exploration or forfeit it." 
+> Add "If a card grants you an additional exploration, after you finish what you are doing, you must immediately use that exploration or forfeit it." 
 
 향후에는 `즉시`라는 단어를 삭제 할 예정입니다(We will also be removing the word "immediately" from such cards in the future).
 
@@ -111,25 +112,31 @@ posted Nov 4, 2014 | back to top
 
 ## 디스플레이되어 있는 카드의 파워를 발동하는 것은 그 카드를 사용하는 것으로 간주하나요(Does activating a power on a displayed card count as playing it)?
 
-예, 그렇습니다(Yes, it does).
+예, 그렇습니다. 
 
-Resolution: On page 9 of the rulebook, under Playing Cards, after the sentence that begins "Playing a card means using a power on that card..." add the sentence "Activating a power on a displayed card also counts as playing it."
+> Yes, it does.
+
+> Resolution: On page 9 of the rulebook, under Playing Cards, after the sentence that begins "Playing a card means using a power on that card..." add the sentence "Activating a power on a displayed card also counts as playing it."
 
 posted Jan 7, 2015 | back to top
 
 ## 카드를 버릴 때 발동되는 파워를 가지고 있으면, 체크나 단계 당 오직 한번만 수행해야 하나요(If I have a power that says it happens when I discard a card (or roll on the plunder table, or something else I might do a lot), can I really only do it once per check or step)?
 
-만일 파워의 설명이 `[어떤 일]이 발생할 때`로 시작하면 체크나 단계 동안 여러번 발생한다 하더라도 그 일이 벌어질 때마다 매번 할 수 있습니다(If a power begins with `when [something happens]`, you can do it every time that thing happens, even if it happens multiple times during a check or step).
+만일 파워의 설명이 `[어떤 일]이 발생할 때`로 시작하면 체크나 단계 동안 여러번 발생한다 하더라도 그 일이 벌어질 때마다 매번 할 수 있습니다.
 
-Resolution: On page 9 of the Skull & Shackles rulebook, under Playing Cards, change "A specific card’s power may only be used once per check or step" to "If a power says it may be used when something happens, you may use it every time that happens. Otherwise, a specific card’s power may only be used once per check or step."
+> If a power begins with "when [something happens]", you can do it every time that thing happens, even if it happens multiple times during a check or step.
+
+> Resolution: On page 9 of the Skull & Shackles rulebook, under Playing Cards, change "A specific card’s power may only be used once per check or step" to "If a power says it may be used when something happens, you may use it every time that happens. Otherwise, a specific card’s power may only be used once per check or step."
 
 posted Jan 5, 2015 | back to top
 
 ## 파워를 사용하기 위해서 카드를 리빌할 때 손 패에 어떤 일이 발생한다면, 리빌한 카드는 손 패에 있는 카드인가요(If I reveal a card for a power, and then something messes with my hand, is the revealed card in my hand? What if I display it? If I discard a card that could be recharged, but something messes with my discard pile before I can make the check to recharge it, is the card really in the discard pile)?
 
-카드를 리빌하거나 디스플레이하는 것은 즉시 발생됩니다. 모든 다른 액션은 당신이 그 것이 어떤 액션인지 알 때까지 대기합니다(Revealing and displaying happen instantly. Every other action waits until you know what action it really is).
+카드를 리빌하거나 디스플레이하는 것은 즉시 발생됩니다. 모든 다른 액션은 당신이 그 것이 어떤 액션인지 알 때까지 대기합니다.
 
-Resolution: On page 10 of the rulebook, after the bulleted list of possible actions, add the following: "When you reveal a card, it does not leave your hand. When you display a card, it leaves your hand immediately. When you play a card by performing any other action, set it aside while you process its effects. For example, a spell might tell you to discard it, then allow you to succeed at a check to recharge it instead; set it aside until you resolve the check that determines whether or not you recharge it. While set aside, a card does not count as being in your hand, your discard pile, your deck, or anywhere else.
+> Revealing and displaying happen instantly. Every other action waits until you know what action it really is.
+
+> Resolution: On page 10 of the rulebook, after the bulleted list of possible actions, add the following: "When you reveal a card, it does not leave your hand. When you display a card, it leaves your hand immediately. When you play a card by performing any other action, set it aside while you process its effects. For example, a spell might tell you to discard it, then allow you to succeed at a check to recharge it instead; set it aside until you resolve the check that determines whether or not you recharge it. While set aside, a card does not count as being in your hand, your discard pile, your deck, or anywhere else.
 
 posted Apr 27, 2015 | back to top
 
@@ -617,23 +624,27 @@ posted Apr 27, 2015 | back to top
 
 posted Oct 21, 2014 | back to top
 
-## If I make a combat check using Aqueous Orb, can I play another spell? If I don't have the Arcane or Divine skill, can I discard Aqueous Orb for its additional damage and thus avoid having to banish the card?
+## `Aqueous Orb`를 컴뱃 체크에 사용하고 또 다른 주문을 사용할 수 있나요? `Arcane`이나 `Divine` 스킬이 없을 때 오브가 배니쉬되는 것을 피하기 위해서 버리면서 추가 데미지를 주는 능력을 사용할 수 있나요(If I make a combat check using Aqueous Orb, can I play another spell? If I don't have the Arcane or Divine skill, can I discard Aqueous Orb for its additional damage and thus avoid having to banish the card)?
 
-No and no. Using the power of Aqueous Orb counts as a spell. And if you discard the spell, it triggers the last part of the power.
+둘다 불가능합니다. `Aqueous Orb`의 파워를 사용하는 것은 주문을 사용하는 것으로 간주됩니다. 그리고 주문을 버리면, 파워의 마지막 파트를 발동시킵니다.
 
-Resolution: On the spell Aqueous Orb, replace "At the end of your turn, if you do not have either the Arcane or Divine skill..." with "This counts as playing a spell. At the end of your turn, or when you would discard this card when playing it, if you do not have either the Arcane or Divine skill..."
+> No and no. Using the power of Aqueous Orb counts as a spell. And if you discard the spell, it triggers the last part of the power.
+
+> Resolution: On the spell Aqueous Orb, replace "At the end of your turn, if you do not have either the Arcane or Divine skill..." with "This counts as playing a spell. At the end of your turn, or when you would discard this card when playing it, if you do not have either the Arcane or Divine skill..."
 
 posted Nov 6, 2014 | back to top
 
-## Jolly Roger helps "your checks against ships." Does it mean "you, the party that owns the ship," or "you, the person who played the card"?
+## `Jolly Roger`는 배에 대한 체크를 도와줍니다. 이것은 배를 소유하고 있는 나를 의미하나요, 혹은 카드를 플레이하는 사람을 의미하나요(Jolly Roger helps "your checks against ships." Does it mean "you, the party that owns the ship," or "you, the person who played the card")?
 
-It means the person who played the card. If we'd told you to display it next to your character instead of next to the ship, you probably wouldn't have thought twice about that...
+그것은 그 카드를 플레이하는 사람을 의미합니다. 
 
-Resolution: On the item Jolly Roger, change the power to "Display this card next to your character. While displayed, add 1d6 to your checks to defeat ships."
+> It means the person who played the card. If we'd told you to display it next to your character instead of next to the ship, you probably wouldn't have thought twice about that...
+
+> Resolution: On the item Jolly Roger, change the power to "Display this card next to your character. While displayed, add 1d6 to your checks to defeat ships."
 
 posted Jan 5, 2015 | back to top
 
-# Card Questions: Tempest Rising (Skull & Shackles Adventure Deck 3)
+# 카드 질문: 템페스트 라이징(어드벤처 덱 3)(Card Questions: Tempest Rising (Skull & Shackles Adventure Deck 3))
 
 ## Bizarre Love Triangle has issues. Are you supposed to close the villain's location when you defeat it, even if it's undefeated?
 
@@ -693,7 +704,7 @@ Resolution: On the ally Slip, change the power to "On your turn, discard this ca
 
 posted yesterday | back to top
 
-# Card Questions: Island of Empty Eyes (Skull & Shackles Adventure Deck 4)
+# 카드 질문: 아일랜드 오브 엠티 아이즈(어드벤처 덱 4)(Card Questions: Island of Empty Eyes (Skull & Shackles Adventure Deck 4))
 
 ## If I win the scenario with Bikendi Otongu, I get to draw 1 card of each type of boon other than loot. Do I get to choose the cards? Do they come from the box? And can I do it all again when I replay the scenario?
 
@@ -753,7 +764,7 @@ Resolution: On the loot Conch of the Tritons, change "No other cards may be used
 
 posted Mar 9, 2015 | back to top
 
-# Card Questions: The Price of Infamy (Skull & Shackles Adventure Deck 5)
+# 카드 질문: 더 프린스 오브 인퍼미(어드벤처 덱 5)(Card Questions: The Price of Infamy (Skull & Shackles Adventure Deck 5))
 
 ## If you're playing Best Served Cold with 6 players, there aren't enough Erinyes Devils in the box to fill out all the locations.
 
@@ -795,7 +806,7 @@ Resolution: On the weapon Keen Rapier +3, add the sentence “If you aren’t pr
 
 posted Apr 27, 2015 | back to top
 
-# Card Questions: From Hell's Heart (Skull & Shackles Adventure Deck 6)
+# 카드 질문: 헬스 하트(어드벤처 덱 6)(Card Questions: From Hell's Heart (Skull & Shackles Adventure Deck 6))
 
 ## Shrine to Besmara says "Your checks have the Pirate or Swashbuckling trait." If my check already has one, can I still choose the other? Can I choose both? How about neither?
 
@@ -853,7 +864,7 @@ Resolution: On the spell Vengeful Storm, delete the words "Wisdom or".
 
 posted Mar 11, 2015 | back to top
 
-# Card Questions: Promo Cards
+# 카드 질문: 프로모션 카드(Card Questions: Promo Cards)
 
 ## The Goblin Weidling is a Class 0 ship, so it can be part of my fleet during Plunder & Peril. But it requires you to summon and encounter the henchman Riptide Grindylow, which is in Adventure Deck 1. What should I do?
 
@@ -873,20 +884,21 @@ posted Oct 15, 2014 | back to top
 
 Here's a list of the promo cards for Skull & Shackles:
 
-Ranzak	June 2014	Free RPG Day Promo
-Mogmurch	July 2014	Pathfinder Adventure Card Guild Retailer Announcement
-Goblin Keelhaulin'	August 2014	Paizo Convention Promo
-Goblin Weidling	August 2014	Retail Promo
-Owlbeartross	October 2014	Retail Promo
-Blessing of Zogmugot	October 2014	Subscriber Promo
-Goblin Pegleg	November 2014	Retail Promo
-Magpie Princess	December 2014	Retail Promo
-Mistmourn	January 2014	Retail Promo
-Goblin Buckler Gun	February 2015	Retail Promo
-Goblin Lockpick	February 2015	To Be Announced
-Vomit Twin	February 2015	To Be Announced
-Cards listed as "Retail Promo" will be made available to game stores during the indicated month.
+- Ranzak	June 2014	Free RPG Day Promo
+- Mogmurch	July 2014	Pathfinder Adventure Card Guild Retailer Announcement
+- Goblin Keelhaulin'	August 2014	Paizo Convention Promo
+- Goblin Weidling	August 2014	Retail Promo
+- Owlbeartross	October 2014	Retail Promo
+- Blessing of Zogmugot	October 2014	Subscriber Promo
+- Goblin Pegleg	November 2014	Retail Promo
+- Magpie Princess	December 2014	Retail Promo
+- Mistmourn	January 2014	Retail Promo
+- Goblin Buckler Gun	February 2015	Retail Promo
+- Goblin Lockpick	February 2015	To Be Announced
+- Vomit Twin	February 2015	To Be Announced
 
-Pathfinder Adventure Card Game subscribers will be shipped promo cards along with their subscription orders (The first 6 cards ship with the subscription shipment containing the Character Add-On Deck; the next card with the next subscription shipment, and so on). A copy of Blessing of Zogmugot will ship with each subscription shipment from October to February.
+> Cards listed as "Retail Promo" will be made available to game stores during the indicated month.
+
+> Pathfinder Adventure Card Game subscribers will be shipped promo cards along with their subscription orders (The first 6 cards ship with the subscription shipment containing the Character Add-On Deck; the next card with the next subscription shipment, and so on). A copy of Blessing of Zogmugot will ship with each subscription shipment from October to February.
 
 Due to a printer error, adventure deck 4 of Skull & Shackles, Island of Empty Eyes, included 6 copies of the henchman Gholdako and 1 copy of the henchman Ghol-Gan Obelisk; it should have had 6 Ghol-Gan Obelisks and 1 Gholdako. And due to our own error, it has 1 fewer Blink Spider than you’ll need when you have 6 players. We solved this problem by making a pack of cards that includes 5 Ghol-Gan Obelisks, 1 Blink Spider, and—in the interest of turning lemons into lemonade—The Land of the Blind, a brand-new promo scenario that makes use of those extra Gholdako cards. We provided that pack for free to customers who purchased Island of Empty Eyes from paizo.com, sent copies through our distributors, and inserted it into our remaining stock of the Island of Empty Eyes Adventure Deck. (The cards in this pack are not usable without the Island of Empty Eyes Adventure Deck, and only one pack is needed per adventure deck.)
