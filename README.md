@@ -6,3 +6,5 @@
 * 같이 참여 하실 분들은 fork 하셔서 수정하신 다음에 PR을 보내주세요!
 
 # [스컬 & 새클스 FAQ](SnS-FAQ.md)
+
+* [어드벤처 덱 1번](SnS-FAQ.md#카드-질문-웜우드-뮤니티어드벤처-덱-1card-questions-the-wormwood-mutiny-skull--shackles-adventure-deck-1)
