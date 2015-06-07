@@ -7,4 +7,8 @@
 
 # [스컬 & 새클스 FAQ](SnS-FAQ.md)
 
+* [일반 규칙 질문](SnS-FAQ.md#규칙-질문rules-questions)
+
+* [캐릭터 애드온 덱](SnS-FAQ.md#카드-질문-스컬--새클스-캐릭터-애드온-덱card-questions-skull--shackles-character-add-on-deck)
+
 * [어드벤처 덱 1번](SnS-FAQ.md#카드-질문-웜우드-뮤니티어드벤처-덱-1card-questions-the-wormwood-mutiny-skull--shackles-adventure-deck-1)
