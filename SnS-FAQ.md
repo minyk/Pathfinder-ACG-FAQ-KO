@@ -397,27 +397,33 @@ posted Jan 5, 2015 | back to top
 
 posted Oct 9, 2014 | back to top
 
-## On Lookout Duty, does "look at" mean "examine"?
+## `Lookout Duty`의 `look at`은 `examine`을 뜻하나요(On Lookout Duty, does "look at" mean "examine")?
 
-Yes.
+예.
 
-Resolution: On the barrier Lookout Duty, change "look at" to "examine".
+> Yes.
+
+> Resolution: On the barrier Lookout Duty, change "look at" to "examine".
 
 posted Wed, May 27, 2015 | back to top
 
-## When the ship or monster summoned by Pirate Hunting is evaded, what happens to the barrier?
+## `Pirate Hunting`으로 소환된 배나 몬스터를 회피하면 배리어는 어떻게 되나요(When the ship or monster summoned by Pirate Hunting is evaded, what happens to the barrier)?
 
-Leave the barrier faceup on the location deck and put the summoned card next to it.
+배리어를 앞면이 보이게 장소 덱 위에 놓고 소환된 카드를 그 옆에 놓습니다.
 
-Resolution: On the barrier Pirate Hunting, change "If the summoned card is undefeated" to "If the summoned card is not defeated". (This card also appears in the Character Add-On Deck.)
+> Leave the barrier faceup on the location deck and put the summoned card next to it.
+
+> Resolution: On the barrier Pirate Hunting, change "If the summoned card is undefeated" to "If the summoned card is not defeated". (This card also appears in the Character Add-On Deck.)
 
 posted Sep 23, 2014 | back to top
 
-## How do you defeat the Treasure Hunt?
+## `Treasure Hunt`는 어떻게 물리치나요(How do you defeat the Treasure Hunt)?
 
-Get some treasure!
+어느 캐릭터라도 체크에 성공하면 베리어를 물리칠 수 있습니다.
 
-Resolution: On the barrier Treasure Hunt, replace "Then banish this barrier" with "If any character succeeds at the check, the barrier is defeated; otherwise, it's undefeated". (This card also appears in the Character Add-On Deck.)
+> Get some treasure!
+
+> Resolution: On the barrier Treasure Hunt, replace "Then banish this barrier" with "If any character succeeds at the check, the barrier is defeated; otherwise, it's undefeated". (This card also appears in the Character Add-On Deck.)
 
 posted Oct 24, 2014 | back to top
 
@@ -495,19 +501,23 @@ posted Mar 18, 2015 | back to top
 
 # 카드 질문: 스컬 \& 새클스 캐릭터 애드온 덱(Card Questions: Skull & Shackles Character Add-On Deck)
 
-## Can Damiel recharge Alchemical cards that he banishes even when he doesn't actually play those cards? And does he *have* to recharge them?
+## `Damiel`이 실제로 사용하지 않았지만 배니쉬되는 `Alchemical`카드를 리차지 할 수 있나요? 그런 카드들을 *반드시* 리차지해야 하나요(Can Damiel recharge Alchemical cards that he banishes even when he doesn't actually play those cards? And does he *have* to recharge them)?
 
-No and no.
+아니오.
 
-Resolution: In the Powers section on Damiel's character card and both sides of his role card, change "When you would banish a card that has the Alchemical trait, recharge it instead" to "When you play a card that has the Alchemical trait and would banish it, you may recharge it instead".
+> No and no.
+
+> Resolution: In the Powers section on Damiel's character card and both sides of his role card, change "When you would banish a card that has the Alchemical trait, recharge it instead" to "When you play a card that has the Alchemical trait and would banish it, you may recharge it instead".
 
 posted Sep 18, 2014 | back to top
 
-## Can Damiel recharge spells with the Arcane or Divine skill he gains?
+## `Damiel`은 `Arcane`이나 `Divine` 이 있는 주문을 파워에서 얻는 스킬로 리차지할 수 있나요(Can Damiel recharge spells with the Arcane or Divine skill he gains)?
 
-Yes.
+예.
 
-Resolution: In the Powers section on Damiel's character card and both sides of his role card, change "When you play a spell that does not have the Attack trait, you gain the skills Arcane and Divine equal to your Craft skill until the end of the step" to "You gain the skills Arcane and Divine equal to your Craft skill while you play or when you would banish a spell that does not have the Attack trait".
+> Yes.
+
+> Resolution: In the Powers section on Damiel's character card and both sides of his role card, change "When you play a spell that does not have the Attack trait, you gain the skills Arcane and Divine equal to your Craft skill until the end of the step" to "You gain the skills Arcane and Divine equal to your Craft skill while you play or when you would banish a spell that does not have the Attack trait".
 
 posted Oct 10, 2014 | back to top
 
@@ -537,16 +547,19 @@ Resolution: On the item Potion of Lucubration, replace the Elite trait with the 
 
 posted Sep 2, 2014 | back to top
 
-## Card Questions: The Wormwood Mutiny (Skull & Shackles Adventure Deck 1)
+# 카드 질문: 웜우드 뮤니티(어드벤처 덱 1)(Card Questions: The Wormwood Mutiny (Skull & Shackles Adventure Deck 1))
 
-In the scenario Press Ganged!, should your hand size increase beyond your normal hand size?
-No.
+## `Press Ganged!` 시나리오에서 손 패의 양은 캐릭터 카드의 정해진 양보다 더 늘어나야 하나요(In the scenario Press Ganged\!, should your hand size increase beyond your normal hand size)?
 
-Resolution: On the scenario Press Ganged!, change the sentence "Each character’s hand size is equal to the number of cards in the bane pile" to "Each character's hand size cannot be greater than the number of cards in the bane pile."
+아닙니다.
+
+> No.
+
+> Resolution: On the scenario Press Ganged!, change the sentence "Each character’s hand size is equal to the number of cards in the bane pile" to "Each character's hand size cannot be greater than the number of cards in the bane pile."
 
 posted Sep 2, 2014 | back to top
 
-## The Man's Promise doesn't do anything different when wrecked. Should it?
+## `Man's Promise`는 난파되었을 때 아무런 일도 없습니다. 이게 맞나요(The Man's Promise doesn't do anything different when wrecked. Should it)?
 
 It should stop other characters from moving on your turn for any reason.
 
@@ -554,11 +567,13 @@ Resolution: On the back of the ship Man's Promise, change "Other characters may 
 
 posted Oct 15, 2014 | back to top
 
-## Should the Pepperbox have a Craft check to acquire, like all other Firearms?
+## `Pepperbox`는 다른 `Firearms`와 같이 `Craft` 체크로 얻을 수 있습니까(Should the Pepperbox have a Craft check to acquire, like all other Firearms)?
 
-Yes.
+예.
 
-Resolution: On the weapon Pepperbox, add Craft as one of the skills in the check to acquire.
+> Yes.
+
+> Resolution: On the weapon Pepperbox, add Craft as one of the skills in the check to acquire.
 
 posted Mar 9, 2015 | back to top
 
@@ -570,29 +585,35 @@ Resolution: On the spell Sphere of Fire, replace "At the end of your turn, if yo
 
 posted Nov 6, 2014 | back to top
 
-# Card Questions: Raiders of the Fever Sea (Skull & Shackles Adventure Deck 2)
+# 카드 질문: 레이더스 오브 더 피버 시(어드벤처 덱 2번)(Card Questions: Raiders of the Fever Sea (Skull & Shackles Adventure Deck 2))
 
-## When playing Give the Devil His Due, if an Enemy Ship summons a ship and I move the Devil's Pallor, can I seize it?
+## `Give the Devil His Due`를 플레이 하는 동안 `Enemy Ship`이 배를 소환해서 `Devil's Pallor` 를 옮겨왔을 떄 그 배를 점령할 수 있나요(When playing Give the Devil His Due, if an Enemy Ship summons a ship and I move the Devil's Pallor, can I seize it)?
 
-No. The scenario wouldn't work if you did.
+아니오. 이 시나리오에서는 그렇게 할 수 없습니다.
 
-Resolution: On the scenario Give the Devil His Due, change "When you would encounter a ship, instead move the Devil’s Pallor to your location and encounter it" to "If a card would summon a ship, instead move the Devil’s Pallor to your location and encounter it".
+> No. The scenario wouldn't work if you did.
+
+> Resolution: On the scenario Give the Devil His Due, change "When you would encounter a ship, instead move the Devil’s Pallor to your location and encounter it" to "If a card would summon a ship, instead move the Devil’s Pallor to your location and encounter it".
 
 posted Oct 15, 2014 | back to top
 
-## When you encounter Krelloort, and there are other cards in the location deck, he goes to the bottom of the deck. Is he evaded? Defeated? Undefeated?
+## `Krelloort`를 인카운터 했고 그 장소 덱에 다른 카드들이 있다면 그는 덱의 바닥으로 이동됩니다. 이건 회피된건가요? 물리친건가요, 물리치지 못한 건가요(When you encounter Krelloort, and there are other cards in the location deck, he goes to the bottom of the deck. Is he evaded? Defeated? Undefeated)?
 
-He's evaded.
+회피된 것입니다.
 
-Resolution: On the villain Krelloort, add the italicized text in the following sentence: "Before you act, if there are other cards in the location deck, Krelloort is evaded; put him on the bottom of the location deck, then summon and encounter the villain Sea Devil Prince."
+> He's evaded.
+
+> Resolution: On the villain Krelloort, add the italicized text in the following sentence: "Before you act, if there are other cards in the location deck, Krelloort is evaded; put him on the bottom of the location deck, then summon and encounter the villain Sea Devil Prince."
 
 posted Apr 27, 2015 | back to top
 
-## When you defeat The Matron, you would banish all non-villain cards in the deck, so when would Krelloort's first power ever matter?
+## `Matron`을 물리쳤을 떄, 덱의 모든 빌런이 아닌 카드를 배니쉬해야 합니다. 그런데 `Krelloort`의 첫 번째 파워가 문제가 되나요(When you defeat The Matron, you would banish all non-villain cards in the deck, so when would Krelloort's first power ever matter)?
 
-Don't banish the non-villain cards when you defeat The Matron—just replace The Matron with Krelloort.
+빌런이 아닌 카드를 배니쉬하지 말고, 그냥 `Matron`을 `Krelloort`으로 교환하세요.
 
-Resolution: On the villain The Matron, change the last paragraph to "If defeated, when you would close the location, instead banish The Matron and shuffle the villain Krelloort into the location deck."
+> Don't banish the non-villain cards when you defeat The Matron—just replace The Matron with Krelloort.
+
+> Resolution: On the villain The Matron, change the last paragraph to "If defeated, when you would close the location, instead banish The Matron and shuffle the villain Krelloort into the location deck."
 
 posted Oct 21, 2014 | back to top
 
@@ -605,6 +626,7 @@ Resolution: On the spell Aqueous Orb, replace "At the end of your turn, if you d
 posted Nov 6, 2014 | back to top
 
 ## Jolly Roger helps "your checks against ships." Does it mean "you, the party that owns the ship," or "you, the person who played the card"?
+
 It means the person who played the card. If we'd told you to display it next to your character instead of next to the ship, you probably wouldn't have thought twice about that...
 
 Resolution: On the item Jolly Roger, change the power to "Display this card next to your character. While displayed, add 1d6 to your checks to defeat ships."
