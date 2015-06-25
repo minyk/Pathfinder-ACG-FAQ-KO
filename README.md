@@ -24,3 +24,7 @@
 * [어드벤처 덱 6번](SnS-FAQ.md#카드-질문-헬스-하트어드벤처-덱-6card-questions-from-hells-heart-skull--shackles-adventure-deck-6)
 
 * [프로모 카드](SnS-FAQ.md#카드-질문-프로모션-카드card-questions-promo-cards)
+
+# [정의의 분노 FAQ](WoR-FAQ.md)
+
+* 미번역
