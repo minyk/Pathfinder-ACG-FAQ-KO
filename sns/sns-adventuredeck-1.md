@@ -10,11 +10,13 @@
 
 posted Sep 2, 2014 | back to top
 
-## `Man's Promise`는 난파되었을 때 아무런 일도 없습니다. 이게 맞나요(The Man's Promise doesn't do anything different when wrecked. Should it)?
+## `Man's Promise`는 난파되었을 때 아무런 차이도 없습니다. 이게 맞나요(The Man's Promise doesn't do anything different when wrecked. Should it)?
 
-It should stop other characters from moving on your turn for any reason.
+다른 캐릭터를 당신의 턴에 이동시키는 것이 불가능해져야 합니다.
 
-Resolution: On the back of the ship Man's Promise, change "Other characters may not move with this ship from this location" to "Other characters may not move or be moved from your location".
+> It should stop other characters from moving on your turn for any reason.
+
+> Resolution: On the back of the ship Man's Promise, change "Other characters may not move with this ship from this location" to "Other characters may not move or be moved from your location".
 
 posted Oct 15, 2014 | back to top
 
@@ -28,10 +30,12 @@ posted Oct 15, 2014 | back to top
 
 posted Mar 9, 2015 | back to top
 
-## If I make a combat check using Sphere of Fire, can I play another spell? If I don't have the Arcane or Divine skill, can I discard Sphere of Fire for its additional damage and thus avoid having to banish the card?
+## `Sphere of Fire`를 사용하여 전투 체크를 할 때, 다른 스펠을 사용할 수 있나요? `Arcane`이나 `Divine`이 없을 떄, 카드를 `discard`하여 `banish`되는 걸 막을 수 있나요(If I make a combat check using Sphere of Fire, can I play another spell? If I don't have the Arcane or Divine skill, can I discard Sphere of Fire for its additional damage and thus avoid having to banish the card)?
 
-No and no. Using the power of Sphere of Fire counts as a spell. And if you discard the spell, it triggers the last part of the power.
+둘다 틀렸습니다. `Sphere of Fire`의 파워를 사용하는 것은 스펠을 사용하는 것으로 간주합니다. 그리고, `discard` 하면 파워의 마지막 부분을 수행해야 합니다.
 
-Resolution: On the spell Sphere of Fire, replace "At the end of your turn, if you do not have either the Arcane or Divine skill..." with "This counts as playing a spell. At the end of your turn, or when you would discard this card when playing it, if you do not have either the Arcane or Divine skill..."
+> No and no. Using the power of Sphere of Fire counts as a spell. And if you discard the spell, it triggers the last part of the power.
+
+> Resolution: On the spell Sphere of Fire, replace "At the end of your turn, if you do not have either the Arcane or Divine skill..." with "This counts as playing a spell. At the end of your turn, or when you would discard this card when playing it, if you do not have either the Arcane or Divine skill..."
 
 posted Nov 6, 2014 | back to top
