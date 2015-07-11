@@ -13,3 +13,7 @@
     * [어드벤처 덱 6](sns/sns-adventuredeck-6.md)
     * [프로모 카드](sns/sns-promo.md)
 * [Wrath of Rightous](wor/WoR-FAQ.md)
+    * [일반 규칙 질문](wor/wor-rulesquestions.md)
+    * [베이스 박스 카드 질문](sns/wor-baseset.md)
+    * [클래스 추가 덱](wor/wor-characteraddon.md)
+    * [어드벤처 덱 1](wor/wor-adventuredeck-1.md)
