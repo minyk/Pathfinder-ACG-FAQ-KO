@@ -20,28 +20,34 @@ posted Sep 18, 2014 | back to top
 
 posted Oct 10, 2014 | back to top
 
-## Lini's Aquamancer role has a power that apparently helps combat checks against ships, but ships never have combat checks. What's the deal there?
+## `Lini`의 `Aquamancer` 역할은 배를 상대로 전투 체크를 할 때 도움이 되는 파워를 가지고 있지만, 배는 전투 체크가 없습니다. 어떻게 된 것인가요(Lini's Aquamancer role has a power that apparently helps combat checks against ships, but ships never have combat checks. What's the deal there)?
 
-The power should help characters with any check against a ship, not just combat checks.
+그 파워는 전투 체크만이 아니라 배를 대상으로 하는 모든 체크에 도움을 줄 수 있습니다.
 
-Resolution: On the Aquamancer side of Lini's role card, replace the second-to-last power with the following:
+> The power should help characters with any check against a ship, not just combat checks.
 
-□ Add 2 (□ 4) to any combat check by a character at your location against a card that has the Aquatic trait (□ or any check by that character against a ship).
+> Resolution: On the Aquamancer side of Lini's role card, replace the second-to-last power with the following:
+
+> □ Add 2 (□ 4) to any combat check by a character at your location against a card that has the Aquatic trait (□ or any check by that character against a ship).
 
 posted Sep 2, 2014 | back to top
 
-## Lini's Aquamancer role has a power that lets her put an Aquatic monster she defeated into her hand. Does that apply to escaping villains, too?
+## `Lini`의 `Aquamancer` 역할은 물리친 `Aquatic` 몬스터를 본패에 넣을 수 있는 파워가 있습니다. 이 능력이 도망가는 `Villain`에게도 적용이 되나요(Lini's Aquamancer role has a power that lets her put an Aquatic monster she defeated into her hand. Does that apply to escaping villains, too)?
 
-No, only to monsters that would otherwise be banished.
+아니오, 배니시되는 몬스터에만 적용됩니다.
 
-Resolution: On the Aquamancer side of Lini's role card, after "If you defeat a monster that has the Aquatic trait" add "and would banish it".
+> No, only to monsters that would otherwise be banished.
+
+> Resolution: On the Aquamancer side of Lini's role card, after "If you defeat a monster that has the Aquatic trait" add "and would banish it".
 
 posted Sep 3, 2014 | back to top
 
-## Is the Potion of Lucubration really supposed to have the Elite Trait?
+## `Potion of Lucubration`은 정말로 `Elite` 특성이 있습니까(Is the Potion of Lucubration really supposed to have the Elite Trait)?
 
-No—it should be Basic.
+아니오, `Basic` 입니다.
 
-Resolution: On the item Potion of Lucubration, replace the Elite trait with the Basic trait.
+> No—it should be Basic.
+
+> Resolution: On the item Potion of Lucubration, replace the Elite trait with the Basic trait.
 
 posted Sep 2, 2014 | back to top
