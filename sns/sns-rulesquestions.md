@@ -84,22 +84,33 @@ posted Feb 4, 2015 | back to top
 
 posted Oct 24, 2014 | back to top
 
-## There are times when I'm directed to reset my hand outside of the "Reset Your Hand" step, and I'm not sure exactly which parts of that step I am supposed to do. Also, it seems weird that powers that happen at the end of your turn actually happen during the Reset Your Hand step, which is before the End Your Turn step.
+## `Reset Your Hand` 단계가 아닐 때 손 패를 리셋하도록 지시받았을 때 정확히 `Reset Your Hand` 단계의 어느 부분을 수행해야 하는지 혼란스럽습니다. 그리고 `End Your Turn` 단계 이전에 일어나는 `Reset Your Hand` 단계에서 턴의 끝에서 사용할 수 있는 파워를 사용하는 것이 이상합니다(There are times when I'm directed to reset my hand outside of the "Reset Your Hand" step, and I'm not sure exactly which parts of that step I am supposed to do. Also, it seems weird that powers that happen at the end of your turn actually happen during the Reset Your Hand step, which is before the End Your Turn step).
 
-Let's fix both of those things. Note that while there's a lot of text in this resolution, the main thing that's changing is merely organizational—the same things happen in the same order as they do now.
+양쪽 모두를 고쳐봅시다. `Reset Your Hand`는 더 이상 턴 순서상의 단계가 아니며 규칙책의 9쪽에서 삭제되어야 합니다. 대신 14쪽의 일반 규칙 항목에 다음과 같이 기록합니다.
 
-Resolution: Reset Your Hand will no longer be a step in the turn sequence, so its text should be removed from page 9 of the rulebook. Instead, it should be a general rules section, much like Taking Damage or Examining and Searching. (We'll insert it after Examining and Searching on page 14.) It should read:
+Reset Your Hand: 손 패를 리셋하도록 지시받았을 때 다음의 일들을 수행합니다. 손패를 리셋하는 동안에는 손패를 리셋하는 때에 사용하도록 기록된 파워나 카드만 플레이할 수 있습니다. 먼저 손패에서 원하는 만큼의 카드를 버립니다. 그리고 손패 크기보다 카드를 많이 가지고 있다면 손패 크기가 될 때 까지 카드를 버려야 합니다. 그 후 손패의 카드 수가 손패 크기보다 작다면 손패 크기에 도달할때까지 카드를 드로우해야 합니다.
 
-Reset Your Hand: Do the following whenever you are instructed to reset your hand. While you reset your hand, you may only play cards or use powers that say they may be used when you reset your hand. First, you may discard any number of cards. Then, if you have more cards in your hand than your hand size specifies, you must discard until the number of cards in your hand matches your hand size. Finally, if you have fewer cards than your hand size, you must draw cards until the number of cards in your hand matches your hand size.
+규칙책 9쪽의 `End Your Turn step`은 다음과 같이 변경됩니다.
 
-On page 9 of the rulebook, The End Your Turn step should now read:
+End Your Turn step: 먼저 턴의 끝에 일어나는 모든 효과를 적용합니다. 파워가 턴을 끝내도록 지시하는 경우가 아니라면 다른 카드나 파워를 플레이할 수 있습니다. 그 후 손패를 리셋합니다(Reset Your Hand를 보세요). 모두 끝나면 턴은 플레이어의 왼쪽에 있는 사람에게 넘어갑니다.
 
-End Your Turn: First, apply any effects that happen at the end of the turn. While you do this, unless a power directed you to end your turn, you may play cards and use powers. Then, reset your hand (see Reset Your Hand). When you’re done, the turn passes to the player on your left.
-On the back cover of the rulebook, under Turn Overview, replace the Reset Your Hand and End Your Turn entries with the following:
+이제 손패를 리셋하는 동작이 턴을 끝내는 것 안에 포함되었기 때문에 앞으로의 `reset your hand and end your turn` 파워가 있는 카드들은 `end your turn.`로만 출력됩니다.
 
-End Your Turn—apply end-of-turn effects, then reset your hand by first discarding any number of cards then discarding down to or drawing up to your hand size.
+> Let's fix both of those things. Note that while there's a lot of text in this resolution, the main thing that's changing is merely organizational—the same things happen in the same order as they do now.
 
-(Note that because resetting your hand is now included in ending your turn, future printings of cards that said "reset your hand and end your turn" will just say "end your turn.")
+> Resolution: Reset Your Hand will no longer be a step in the turn sequence, so its text should be removed from page 9 of the rulebook. Instead, it should be a general rules section, much like Taking Damage or Examining and Searching. (We'll insert it after Examining and Searching on page 14.) It should read:
+
+> Reset Your Hand: Do the following whenever you are instructed to reset your hand. While you reset your hand, you may only play cards or use powers that say they may be used when you reset your hand. First, you may discard any number of cards. Then, if you have more cards in your hand than your hand size specifies, you must discard until the number of cards in your hand matches your hand size. Finally, if you have fewer cards than your hand size, you must draw cards until the number of cards in your hand matches your hand size.
+
+> On page 9 of the rulebook, The End Your Turn step should now read:
+
+> End Your Turn: First, apply any effects that happen at the end of the turn. While you do this, unless a power directed you to end your turn, you may play cards and use powers. Then, reset your hand (see Reset Your Hand). When you’re done, the turn passes to the player on your left.
+
+> On the back cover of the rulebook, under Turn Overview, replace the Reset Your Hand and End Your Turn entries with the following:
+
+> End Your Turn—apply end-of-turn effects, then reset your hand by first discarding any number of cards then discarding down to or drawing up to your hand size.
+
+> (Note that because resetting your hand is now included in ending your turn, future printings of cards that said "reset your hand and end your turn" will just say "end your turn.")
 
 posted Nov 4, 2014 | back to top
 
@@ -145,11 +156,13 @@ posted Apr 27, 2015 | back to top
 
 posted Feb 12, 2015 | back to top
 
-## Something made a card go back in the box or into a deck even though there were still things on the card that hadn't been done. Do I still do those things?
+## 어떤 효과로 인하여 카드에 발휘되지 않은 능력이 남아 있는 상태에서 카드가 박스나 덱으로 되돌아 간다면 발휘되지 않은 능력들을 수행해야만 하나요(Something made a card go back in the box or into a deck even though there were still things on the card that hadn't been done. Do I still do those things)?
 
-Yes.
+예.
 
-Resolution: On page 10 of the Skull & Shackles rulebook, after the bulleted list of actions (and after the added text from the two FAQ entries above), add the following text: "Cards often have instructions that you need to follow after you play the card; follow these instructions even if the card is no longer in your hand (even if the card is out of your sight, such as in the box or in a deck)."
+> Yes.
+
+> Resolution: On page 10 of the Skull & Shackles rulebook, after the bulleted list of actions (and after the added text from the two FAQ entries above), add the following text: "Cards often have instructions that you need to follow after you play the card; follow these instructions even if the card is no longer in your hand (even if the card is out of your sight, such as in the box or in a deck)."
 
 posted Apr 27, 2015 | back to top
 
@@ -163,11 +176,13 @@ posted Apr 27, 2015 | back to top
 
 posted Oct 31, 2014 | back to top
 
-## If a barrier tells me that I have to encounter it "as my first exploration" on a turn, but I have a power says that I can do something "instead of my first exploration," if I use my power, does that mean I can then explore and not face the barrier?
+## 인카운트한 배리어에 `as my first exploration` 가 있지만 캐릭터의 파워에 `instead of my first exploration,` 능력이 있고 이 능력을 사용한다면 그 후 배리어를 상대하지 않고 탐험을 할 수 있나요(If a barrier tells me that I have to encounter it "as my first exploration" on a turn, but I have a power says that I can do something "instead of my first exploration," if I use my power, does that mean I can then explore and not face the barrier)?
 
-Sorry—no. The first time you actually explore, you have to deal with that barrier.
+아니오. 처음으로 실제 탐험을 할 때 그 배리어를 상대해야 합니다.
 
-Resolution: On page 11 of the rulebook, in the Rules: Faceup Cards sidebar, replace "If such a card tells you that you must encounter it on your first exploration on a turn, then after that exploration, ignore it for the purpose of additional explorations that turn; however, it still counts as the top card of the deck for any other purpose" with "If such a card tells you that you must encounter it on your first exploration on a turn, then you must encounter it the first time you explore that turn. After that exploration, ignore it for the purpose of additional explorations that turn; however, it still counts as the top card of the deck for any other purpose".
+> Sorry—no. The first time you actually explore, you have to deal with that barrier.
+
+> Resolution: On page 11 of the rulebook, in the Rules: Faceup Cards sidebar, replace "If such a card tells you that you must encounter it on your first exploration on a turn, then after that exploration, ignore it for the purpose of additional explorations that turn; however, it still counts as the top card of the deck for any other purpose" with "If such a card tells you that you must encounter it on your first exploration on a turn, then you must encounter it the first time you explore that turn. After that exploration, ignore it for the purpose of additional explorations that turn; however, it still counts as the top card of the deck for any other purpose".
 
 posted Oct 9, 2014 | back to top
 
@@ -181,70 +196,84 @@ posted Oct 9, 2014 | back to top
 
 posted Apr 13, 2015 | back to top
 
-## If a card requires sequential checks, and more than one character is attempting them, who does "you" on that card refer to: the person attempting the check, or the person encountering the card?
+## 만약 카드가 연속적인 체크를 요구하고 한명 이상의 캐릭터가 시도를 할 때 카드에 적힌 "you"는 누구를 지칭합니까: 체크를 시도하는 캐릭터인가요, 카드를 인카운트한 캐릭터인가요(If a card requires sequential checks, and more than one character is attempting them, who does "you" on that card refer to: the person attempting the check, or the person encountering the card)?
 
-The person attempting the check.
+체크를 시도하는 캐릭터입니다.
 
-Resolution: On page 12 of the rulebook, near the top of the page, at the end of the paragraph that begins "Only the character who encounters the card...", add the following sentence:
+> The person attempting the check.
 
-"While you are attempting a check against such a card that you did not encounter, powers that would apply to the character who encountered it apply to you instead."
+> Resolution: On page 12 of the rulebook, near the top of the page, at the end of the paragraph that begins "Only the character who encounters the card...", add the following sentence:
+
+> "While you are attempting a check against such a card that you did not encounter, powers that would apply to the character who encountered it apply to you instead."
 
 posted Jan 5, 2015 | back to top
 
-## When a power adds a skill to a check, does it change the type of check? For example, if I power up an Alchemist's Fire to add my Craft skill to a combat check, does that make it a Craft check?
+## 파워로 인해서 체크에 스킬을 더할 때, 이러한 동작이 체크의 타입을 변경시키나요? 예를 들어 `Alchemist's Fire`를 사용하면서 전투 체크에 `Craft` 스킬을 더하면 이 체크는 `Craft` 체크가 되나요(When a power adds a skill to a check, does it change the type of check? For example, if I power up an Alchemist's Fire to add my Craft skill to a combat check, does that make it a Craft check)?
 
-No. When a power says you may use a skill for a check (like most weapons and attack spells), it adds the skills you're using as traits to the check, but when you're just adding another skill to a check, those skills are not added as traits.
+아니오. 대부분의 무기와 공격 주문처럼 체크에 스킬을 사용할 수 있다고 말하는 파워는 체크에 사용하는 스킬을 특성으로 추가하게 해줍니다만 어떤 체크에 단순히 스킬을 더하는 경우에는 특성으로 추가되지 않습니다. 
 
-Resolution:
+> No. When a power says you may use a skill for a check (like most weapons and attack spells), it adds the skills you're using as traits to the check, but when you're just adding another skill to a check, those skills are not added as traits.
 
-On page 12 of the rulebook, under "Determine Which Skill You're Using," replace the first two paragraphs with the three that follow. (This might seem like a big change, but mostly, we've taken the opportunity to rewrite and reorganize this section for clarity and to add some more examples. The most significant additions are the last two sentences, and even these are just to clarify that a thing doesn't happen; since nothing ever suggested it did happen, none of this actually changes gameplay at all.)
+> Resolution:
 
-Determine Which Skill You’re Using. Cards that require a check specify the skill or skills you can use to attempt the check. Each check to defeat or acquire a card lists one or more skills; you may choose any of the listed skills for your check. For example, if a check lists Dexterity, Disable, Strength, and Melee, you may use any one of those skills to attempt your check. Even if your character doesn’t have any of the skills listed for a check, you can still attempt the check, but your die is a d4.
+> On page 12 of the rulebook, under "Determine Which Skill You're Using," replace the first two paragraphs with the three that follow. (This might seem like a big change, but mostly, we've taken the opportunity to rewrite and reorganize this section for clarity and to add some more examples. The most significant additions are the last two sentences, and even these are just to clarify that a thing doesn't happen; since nothing ever suggested it did happen, none of this actually changes gameplay at all.)
 
-Some cards allow you to use a particular skill for a specific type of check, or to use one skill instead of another. (These cards generally say things like "For your combat check, use your Strength or Melee skill," or "Use your Strength skill instead of your Diplomacy skill.") You may play only 1 such card or use only 1 such power to determine which skill you're using. A few cards that can be used on checks don’t use any of your skills; they instead specify the exact dice you need to roll or the result of your die roll.
+> Determine Which Skill You’re Using. Cards that require a check specify the skill or skills you can use to attempt the check. Each check to defeat or acquire a card lists one or more skills; you may choose any of the listed skills for your check. For example, if a check lists Dexterity, Disable, Strength, and Melee, you may use any one of those skills to attempt your check. Even if your character doesn’t have any of the skills listed for a check, you can still attempt the check, but your die is a d4.
 
-The skill you're using for the check, and any skill referenced by that skill, are added as traits to the check. For example, if your character has the skill Melee: Strength +2, and you are using your Melee skill, both the Strength and the Melee traits are added to the check. When you're playing a card to determine the skill you're using, that card’s traits are also added to the check; for example, revealing the weapon Dragon Pistol for your combat check adds the Firearm, Ranged, Piercing, and Elite traits to the check. (This isn’t the same as giving you a skill; for example, playing the spell Fireblade adds the Divine trait to your check, but it does not give you the Divine skill.) If a power adds an additional skill to a check, that skill is not added as a trait to the check. For example, a card that adds your Craft skill to your combat check does not add the Craft trait to your check.
+> Some cards allow you to use a particular skill for a specific type of check, or to use one skill instead of another. (These cards generally say things like "For your combat check, use your Strength or Melee skill," or "Use your Strength skill instead of your Diplomacy skill.") You may play only 1 such card or use only 1 such power to determine which skill you're using. A few cards that can be used on checks don’t use any of your skills; they instead specify the exact dice you need to roll or the result of your die roll.
+
+> The skill you're using for the check, and any skill referenced by that skill, are added as traits to the check. For example, if your character has the skill Melee: Strength +2, and you are using your Melee skill, both the Strength and the Melee traits are added to the check. When you're playing a card to determine the skill you're using, that card’s traits are also added to the check; for example, revealing the weapon Dragon Pistol for your combat check adds the Firearm, Ranged, Piercing, and Elite traits to the check. (This isn’t the same as giving you a skill; for example, playing the spell Fireblade adds the Divine trait to your check, but it does not give you the Divine skill.) If a power adds an additional skill to a check, that skill is not added as a trait to the check. For example, a card that adds your Craft skill to your combat check does not add the Craft trait to your check.
 
 posted Mar 30, 2015 | back to top
 
-## When a card requires me to determine the highest difficulty of a card, what modifiers affect that difficulty?
+## 어떤 카드가 체크 중 가장 높은 난이도를 결정하라고 할때 난이도에 영향을 미치는 어떤 수정치를 사용해야 하나요(When a card requires me to determine the highest difficulty of a card, what modifiers affect that difficulty)?
 
-Anything that doesn't occur before, while, or after you act. For example, most cards with the Veteran trait will increase in difficulty with the adventure deck number, but if the difficulty of a check would be increased only if you fail a check before you act, that doesn't apply here.
+행동 이전, 도중, 이후에 발생하지 않는 모든 것입니다. 예를 들어 대부분의 `Veteran` 특성은 난이도를 어드벤처 덱의 숫자만큼 증가시킵니다, 그러나 난이도가 행동하기 전에 수행한 체크를 실패한 경우 올라간다면, 그러한 수정치는 적용하지 않습니다.
 
-Resolution: On page 12 of the rulebook, at the end of "Determine the difficulty," add the following sentence:
+또한 `Lycanthrope` 특성이 있는 카드나 어드벤처 덱 4번의 `Blood Moon` 카드에서 블레싱 덱의 버린 카드 더미를 보는 파워 중 "Before you act" 또는 "Before the encounter" 부분을 삭제합니다.
 
-"When determining the lowest or highest difficulty to defeat or acquire a card, apply all powers from cards in play that affect the difficulty, but do not apply powers that happen before you act, while you act, or after you act."
+> Anything that doesn't occur before, while, or after you act. For example, most cards with the Veteran trait will increase in difficulty with the adventure deck number, but if the difficulty of a check would be increased only if you fail a check before you act, that doesn't apply here.
 
-Also, for all banes with the Lycanthrope trait in Skull & Shackles and Rise of the Runelords, plus the ship Blood Moon from Skull & Shackles Adventure Deck 4, remove the words "Before you act" or "Before the encounter" from the power that requires you to look at the top card of the blessings discard pile.
+> Resolution: On page 12 of the rulebook, at the end of "Determine the difficulty," add the following sentence:
 
-The complete list of affected cards:
+> "When determining the lowest or highest difficulty to defeat or acquire a card, apply all powers from cards in play that affect the difficulty, but do not apply powers that happen before you act, while you act, or after you act."
 
-Rise of the Runelords: monster Werewolf (B & C), henchman Pidget Tergelson (2)
-Skull & Shackles: monster Blood Moon Pirate (B), monster Werecrocodile (3), villain Fargo Vitterande (4), ship Blood Moon (4), henchman Wereshark Pirate (6), villain Captain Horrus Riptooth (6)
+> Also, for all banes with the Lycanthrope trait in Skull & Shackles and Rise of the Runelords, plus the ship Blood Moon from Skull & Shackles Adventure Deck 4, remove the words "Before you act" or "Before the encounter" from the power that requires you to look at the top card of the blessings discard pile.
+
+> The complete list of affected cards:
+
+> Rise of the Runelords: monster Werewolf (B & C), henchman Pidget Tergelson (2)
+> Skull & Shackles: monster Blood Moon Pirate (B), monster Werecrocodile (3), villain Fargo Vitterande (4), ship Blood Moon (4), henchman Wereshark Pirate (6), villain Captain Horrus Riptooth (6)
 
 posted Jan 5, 2015 | back to top
 
-## The rules say that summoned cards are banished "unless I'm instructed otherwise," but it's not clear what counts as being instructed otherwise. For example, if my character has a power that lets him put a monster into his hand, does that apply to summoned monsters?
+## 규칙에서는 소환된 카드는 "다른 설명이 없으면" 배니시 하라고 되어 있습니다만, 어떤 것을 다른 설명으로 봐야 하는지 불분명합니다. 예를 들어 캐릭터에 몬스터를 손패로 넣는 파워가 있다면 이 능력은 소환된 몬스터에도 적용이 되나요(The rules say that summoned cards are banished "unless I'm instructed otherwise," but it's not clear what counts as being instructed otherwise. For example, if my character has a power that lets him put a monster into his hand, does that apply to summoned monsters)?
 
-No. The only cards that are allowed to "instruct you otherwise" are the cards actually doing the summoning.
+아니오. "다른 설명"을 허가하는 유일한 카드는 소환을 한 카드입니다.
 
-Resolution: On page 14 of the Skull & Shackles Rulebook, under Summoning and Adding Cards, change "After evading a summoned card or resolving the encounter with it, banish it unless you’re instructed otherwise" to "After evading a summoned card or resolving the encounter with it, never put it anywhere other than back in the box unless the card that caused you to summon it instructs you otherwise".
+> No. The only cards that are allowed to "instruct you otherwise" are the cards actually doing the summoning.
+
+> Resolution: On page 14 of the Skull & Shackles Rulebook, under Summoning and Adding Cards, change "After evading a summoned card or resolving the encounter with it, banish it unless you’re instructed otherwise" to "After evading a summoned card or resolving the encounter with it, never put it anywhere other than back in the box unless the card that caused you to summon it instructs you otherwise".
 
 posted Oct 9, 2014 | back to top
 
-## The rules say that summoned cards can never summon other cards, but The Secret of Mancatcher Cove summons and builds a location, and a card in that location is supposed to summon a card. Isn't that a problem?
+## 규칙에서는 소환된 카드는 절대 다른 카드를 소환할 수 없다고 합니다만, `The Secret of Mancatcher Cove`는 장소를 소환해서 구축하며, 그 장소에 있는 카드는 소환된 카드로 간주합니다. 이게 문제가 되지 않나요(The rules say that summoned cards can never summon other cards, but The Secret of Mancatcher Cove summons and builds a location, and a card in that location is supposed to summon a card. Isn't that a problem)?
 
-Not if cards in summoned locations don't count as summoned cards...
+소환된 장소에 있는 카드를 소환된 카드로 보지 않으면 됩니다...
 
-Resolution: On page 15 of the rulebook, add the italicized text to the following sentence: "If you’re told to summon and build a location, retrieve the location card from the box and build the location as usual; the location and its deck remain in play for the rest of the scenario and are no longer considered summoned cards."
+> Not if cards in summoned locations don't count as summoned cards...
+
+> Resolution: On page 15 of the rulebook, add the italicized text to the following sentence: "If you’re told to summon and build a location, retrieve the location card from the box and build the location as usual; the location and its deck remain in play for the rest of the scenario and are no longer considered summoned cards."
 
 posted Oct 17, 2014 | back to top
 
-## In a scenario with multiple villains, if more than one is in the same location, and all other locations are closed, that location doesn't get closed. So when you defeat one villain, he will always escape back to it, leaving multiple villains as the only cards in the deck for the rest of the game, rendering the scenario unwinnable. That's bad, right?
+## 둘 이상의 `Villain`이 있는 시나리오에서 같은 장소에 하나 이상의 `Villain`이 있고, 다른 장소들은 모두 닫혀 있다면, 그 장소는 닫을 수 없습니다. 이때 `Villain`을 물리치면 열려있는 하나의 장소로 도망치기 때문에 이후의 게임동안 그 장소 덱에는 `Villain`만 남게 되고 시나리오를 끝낼 수 없습니다. 어떻게 해야 하나요(In a scenario with multiple villains, if more than one is in the same location, and all other locations are closed, that location doesn't get closed. So when you defeat one villain, he will always escape back to it, leaving multiple villains as the only cards in the deck for the rest of the game, rendering the scenario unwinnable. That's bad, right)?
 
-Yeah, that's not good. We've been careful to engineer scenarios to avoid that issue, but a change to the rulebook should address that problem for good.
+이런 문제를 피하기 위해 주의 깊에 만들었지만, 규칙을 바꾸어 문제를 해결할 수 있도록 합시다: `Villain`이 도망갈 다른 열린 장소가 없다면 `Villain`을 배니시합니다.
 
-Resolution: On page 16 of the rulebook, under If You Defeat the Villain, Close the Villain’s Location, change "... the location is not permanently closed, but it is temporarily closed, and the defeated villain cannot escape to it" to "...the location is not permanently closed, but if there are no other open locations for the villain to escape to, banish the villain".
+> Yeah, that's not good. We've been careful to engineer scenarios to avoid that issue, but a change to the rulebook should address that problem for good.
+
+> Resolution: On page 16 of the rulebook, under If You Defeat the Villain, Close the Villain’s Location, change "... the location is not permanently closed, but it is temporarily closed, and the defeated villain cannot escape to it" to "...the location is not permanently closed, but if there are no other open locations for the villain to escape to, banish the villain".
 
 posted Jan 5, 2015 | back to top
 
@@ -274,19 +303,23 @@ posted Sep 12, 2014 | back to top
 
 posted Sep 2, 2014 | back to top
 
-## If I have no cards in my deck, can I avoid dying by triggering a power that allows me to draw a card from an empty blessings deck so my party loses the scenario before I have to draw from my deck?
+## 캐릭터 덱에 카드가 남아 있지 않을때, 비어 있는 블레싱 덱에서 카드를 드로우하는 능력을 사용하여 캐릭터 덱에서 카드를 드로우하기 전에 시나리오에서 패배함으로서 캐릭터가 죽는 것을 방지할 수 있나요(If I have no cards in my deck, can I avoid dying by triggering a power that allows me to draw a card from an empty blessings deck so my party loses the scenario before I have to draw from my deck)?
 
-Nice try, but no. If you must draw a card from an empty blessings deck, you must end your turn before the scenario ends.
+아니오. 빈 블레싱 덱에서 카드를 드로우 하면 시나리오가 끝나기 전에 자신의 턴을 끝내야 합니다.
 
-Resolution: On page 18 of the Skull & Shackles rulebook, change "If at any point, you need to advance the blessing deck but there are no cards remaining in it, the scenario ends immediately and your party of adventurers loses." to "If at any point you need to advance the blessing deck but there are no cards remaining in it, immediately end the current turn; the scenario then ends and your party of adventurers loses."
+> Nice try, but no. If you must draw a card from an empty blessings deck, you must end your turn before the scenario ends.
+
+> Resolution: On page 18 of the Skull & Shackles rulebook, change "If at any point, you need to advance the blessing deck but there are no cards remaining in it, the scenario ends immediately and your party of adventurers loses." to "If at any point you need to advance the blessing deck but there are no cards remaining in it, immediately end the current turn; the scenario then ends and your party of adventurers loses."
 
 posted Oct 30, 2014 | back to top
 
-## What's a ship feat? And when I gain a Class 2 ship feat, can I check off a Class 1 ship if I prefer?
+## 배 피트가 뭔가요? 그리고 클래스 2 배 피트를 얻으면 클래스 1 배를 체크할 수 있나요(What's a ship feat? And when I gain a Class 2 ship feat, can I check off a Class 1 ship if I prefer)?
 
-Various scenarios and adventures reward your party with a ship feat, which allows you to check a box of a particular class of ship on the fleet card. And yes, you may choose a ship of a lower class if you like.
+다양한 시나리오와 모험에서 함대 카드에서 그 클래스의 배의 체크 박스를 선택할 수 있는 배 피트를 보상으로 주게 됩니다. 그리고 예, 원하면 얻은 피트보다 낮은 클래스의 배를 선택할 수 있습니다.
 
-Resolution: On page 19 of the rulebook, change "Your party may be rewarded with a ship; check off an appropriate ship on the party’s fleet card" to "Your party may be rewarded with a ship feat; check off an appropriate ship of the indicated class or lower on the party’s fleet card."
+> Various scenarios and adventures reward your party with a ship feat, which allows you to check a box of a particular class of ship on the fleet card. And yes, you may choose a ship of a lower class if you like.
+
+> Resolution: On page 19 of the rulebook, change "Your party may be rewarded with a ship; check off an appropriate ship on the party’s fleet card" to "Your party may be rewarded with a ship feat; check off an appropriate ship of the indicated class or lower on the party’s fleet card."
 
 posted Oct 17, 2014 | back to top
 
@@ -300,201 +333,34 @@ posted Oct 17, 2014 | back to top
 
 posted Oct 14, 2014 | back to top
 
-## When a bane has a power that triggers when "you" do something, does "you" mean just the person encountering the bane, or anybody doing that thing?
+## "당신"이 무언가를 했을 때 발동되는 파워가 있는 `bane` 카드에서 "당신"은 그 카드를 인카운트한 사람만을 가르키나요 아니면 그 일을 하는 사람들을 가르키나요(When a bane has a power that triggers when "you" do something, does "you" mean just the person encountering the bane, or anybody doing that thing)?
 
-It applies to anybody who does that thing.
+그 일을 하는 사람들 모두에게 적용됩니다.
 
-Resolution: On page 25 of the rulebook, under Banes, add the following sentence to the end of the Powers section: "If a bane says an effect happens if or when you do a particular thing, it applies to any character who does that thing."
+> It applies to anybody who does that thing.
+
+> Resolution: On page 25 of the rulebook, under Banes, add the following sentence to the end of the Powers section: "If a bane says an effect happens if or when you do a particular thing, it applies to any character who does that thing."
 
 posted Apr 13, 2015 | back to top
 
-## In the Example of Play, some of the players forget to recharge the cards they play, one player leaves out a die when she rolls, and the word "banished" is used with a card that should be discarded.
+## 플레이 예제에서 몇몇 플레이어는 자신들이 사용한 카드를 리차지하는 것을 잊어버리고, 한 플레이어는 주사위를 굴릴때 주사위를 빼고 굴렸고, "배니시"는 버려야 하는 카드에 사용되었습니다(In the Example of Play, some of the players forget to recharge the cards they play, one player leaves out a die when she rolls, and the word "banished" is used with a card that should be discarded).
 
-Sigh. While it's true that players sometimes forget to recharge the cards they play, and occasionally leave out dice, that doesn't really make for a good example.
+하아. 실제 플레이에서는 카드를 리차지하는 것을 잊어버리고, 가끔은 주사위를 모자르게 굴리지만, 이런 것이 좋은 예라고 할 수는 없습니다(역자주: 플레이 예의 잘못된 부분을 수정하는 단락입니다. 별도의 번역은 생략하겠습니다).
 
-Resolution: In the Example of Play on pages 26 and 27, change the following. (This entry is lengthy, though the only mechanical changes are the bolded bits below.)
+> Sigh. While it's true that players sometimes forget to recharge the cards they play, and occasionally leave out dice, that doesn't really make for a good example.
 
-In Lily's first turn, replace the two paragraphs where Alahazra and Seltyiel encounter the Buccaneer with the following:
+> Resolution: In the Example of Play on pages 26 and 27, change the following. (This entry is lengthy, though the only mechanical changes are the bolded bits below.)
 
-First, Seltyiel encounters his copy of the Buccaneer. He has a Force Missile and a Longsword in his hand, so he activates a character power that lets him use both cards. He uses the Force Missile for his combat check, which adds 2d4 to his Arcane skill of d8+3, and recharges the Longsword to add 1d6. Now Sam rolls 1d8+3 + 2d4 + 1d6, but manages a measly 7, which doesn’t beat the Buccaneer’s difficulty of 8. Sam must now discard 1 card (the difference between the 8 he needed and the 7 he rolled). He discards the ally Quartermaster, and the Buccaneer he summoned is banished. Now he must succeed at an Arcane 6 check or discard the Force Missile instead of recharging it; he beats that handily and puts the card under his deck.
+> > In Lily's first turn, replace the two paragraphs where Alahazra and Seltyiel encounter the Buccaneer with the following:
 
-Next, Alahazra encounters her copy of the Buccaneer. She plays the spell Fear to evade it. Normally, Fear would shuffle an evaded monster into an open location deck, but the summoned monster didn’t come from a location deck, so it’s banished instead. She recharges Fear.
+> First, Seltyiel encounters his copy of the Buccaneer. He has a Force Missile and a Longsword in his hand, so he activates a character power that lets him use both cards. He uses the Force Missile for his combat check, which adds 2d4 to his Arcane skill of d8+3, and recharges the Longsword to add 1d6. Now Sam rolls 1d8+3 + 2d4 + 1d6, but manages a measly 7, which doesn’t beat the Buccaneer’s difficulty of 8. Sam must now discard 1 card (the difference between the 8 he needed and the 7 he rolled). He discards the ally Quartermaster, and the Buccaneer he summoned is banished. Now he must succeed at an Arcane 6 check or discard the Force Missile instead of recharging it; he beats that handily and puts the card under his deck.
 
-In Amber's First Turn, make these adjustments:
+> Next, Alahazra encounters her copy of the Buccaneer. She plays the spell Fear to evade it. Normally, Fear would shuffle an evaded monster into an open location deck, but the summoned monster didn’t come from a location deck, so it’s banished instead. She recharges Fear.
 
-Change "2d12+4 + 1d4" to "2d12+4 + 1d6 + 1d4.”
-Change "She draws back up to her hand size and ends her turn" to "She recharges Inflict, draws back up to her hand size, and ends her turn".
+> In Amber's First Turn, make these adjustments:
+
+> Change "2d12+4 + 1d4" to "2d12+4 + 1d6 + 1d4.”
+
+> Change "She draws back up to her hand size and ends her turn" to "She recharges Inflict, draws back up to her hand size, and ends her turn".
+
 posted Oct 10, 2014 | back to top
-Card Questions: Skull & Shackles Base Set
-If I use Jirelle the Pirate Queen's last power, who can move, and when?
-If you check the first box, Jirelle can move at the end of her turn if she is at the ship's location (and if the ship isn't anchored, she can take anyone at her location with her). If you check the second box, anyone on the ship with Jirelle can move at the end of his turn (and if the ship isn't anchored, that person can take Jirelle and anyone else at his location with him).
-
-Resolution: On the Pirate Queen side of Jirelle's role card, change "▢ If you are on a ship, you (▢ or another character on the ship) may move at the end of that character's turn" to "▢ If you are on a ship, you may move at the end of your turn (▢ or the character commanding your ship may move at the end of her turn)".
-
-posted Mar 23, 2015 | back to top
-
-## Since “before I reset my hand” is not part of a step, can I use Seltyiel’s spell recharge power as many times as I want?
-
-No—just once. We’ll change that to “at the end of your turn” so it happens during a step.
-
-Resolution: On Seltyiel’s character and both sides of his role card, change “before you reset your hand” to “at the end of your turn.”
-
-posted Sep 18, 2014 | back to top
-
-## In the Sunken Treasure scenario, after I examine a location deck, do I shuffle its cards back into the location they came from, or into the location I'm at?
-
-They go back to the location deck they came from.
-
-Resolution: On the scenario Sunken Treasure, change "into the location deck" to "into that location deck."
-
-posted Sep 18, 2014 | back to top
-
-## Tempest Cay says "If your ship is dealt Structural damage, increase the damage by 1." Does it matter where the ship is, or how many characters are at Tempest Cay?
-
-Neither of those things make any difference. As long as anybody is at Tempest Cay, regardless of where the ship is, Structural damage is increased by 1.
-
-Resolution: On the location Tempest Cay, replace the At this Location text with "If this location is occupied, Structural damage to your ship at any location is increased by 1."
-
-posted Jan 7, 2015 | back to top
-
-## When you resolve an encounter with a summoned card, it's always supposed to go back in the box unless the card that summons it tells you otherwise. But the Wishing Well summons a haunt that's supposed to stick to you, but it doesn't technically tell you otherwise.
-
-The haunt stays around.
-
-Resolution: Change the location Wishing Well's At This Location power to "When you acquire a boon, summon and encounter the henchman Pirate Shade Haunt, which may not be evaded; display it next to your character card."
-
-posted Jan 5, 2015 | back to top
-
-## Can cards like Masterwork Tools defeat banes like Pirate Hunting or Enemy Ship, which have checks to defeat of "See Below"?
-
-Actually, they should have no checks to defeat at all, so no.
-
-Resolution: On the henchman Enemy Ship and the barrier Pirate Hunting, change the check to defeat from "See Below" to "None". (These cards also appear in the Character Add-On Deck.) This also applies to the henchman Ghol-Gan Obelisk from adventure deck 4 and the villain Incutilis from adventure deck 5.
-
-posted Oct 15, 2014 | back to top
-
-## When I encounter a Crab Swarm, am I supposed to summon another one for myself?
-
-No—you only have to deal with the one you're already encountering.
-
-Resolution: On the monster Crab Swarm, replace the power with the following:
-
-Before you act, each other character at your location must summon and encounter the Crab Swarm.
-
-If any character would defeat the Crab Swarm, reroll the dice; that character must take the new result.
-
-(This card also appears in the Character Add-On Deck.)
-
-posted Jan 5, 2015 | back to top
-
-## `앰부쉬`의 주사위 패널티는 인카운트하는 몬스터의 모든 체크에 적용되어야 하나요(Should the Ambush die penalty apply to all checks against the encountered monster)?
-
-예.
-
-> Yes.
-
-> Resolution: On the barrier Ambush, change "encounter it, subtracting 1 from each die rolled in your check" to "encounter it, subtracting 1 from each die rolled in your checks against it". (This card also appears in the Character Add-On Deck.)
-
-posted Oct 9, 2014 | back to top
-
-## `Lookout Duty`의 `look at`은 `examine`을 뜻하나요(On Lookout Duty, does "look at" mean "examine")?
-
-예.
-
-> Yes.
-
-> Resolution: On the barrier Lookout Duty, change "look at" to "examine".
-
-posted Wed, May 27, 2015 | back to top
-
-## `Pirate Hunting`으로 소환된 배나 몬스터를 회피하면 배리어는 어떻게 되나요(When the ship or monster summoned by Pirate Hunting is evaded, what happens to the barrier)?
-
-배리어를 앞면이 보이게 장소 덱 위에 놓고 소환된 카드를 그 옆에 놓습니다.
-
-> Leave the barrier faceup on the location deck and put the summoned card next to it.
-
-> Resolution: On the barrier Pirate Hunting, change "If the summoned card is undefeated" to "If the summoned card is not defeated". (This card also appears in the Character Add-On Deck.)
-
-posted Sep 23, 2014 | back to top
-
-## `Treasure Hunt`는 어떻게 물리치나요(How do you defeat the Treasure Hunt)?
-
-어느 캐릭터라도 체크에 성공하면 베리어를 물리칠 수 있습니다.
-
-> Get some treasure!
-
-> Resolution: On the barrier Treasure Hunt, replace "Then banish this barrier" with "If any character succeeds at the check, the barrier is defeated; otherwise, it's undefeated". (This card also appears in the Character Add-On Deck.)
-
-posted Oct 24, 2014 | back to top
-
-## `대거`의 효과는 누구의 컴뱃 체크에 영향을 줍니까(Whose combat checks does a Dagger affect)?
-
-당신의 체크에만 영향을 줍니다.
-
-> Just yours.
-
-> Resolution: On the weapon Dagger, change "When playing another weapon, you may discard this card to add 1d4 to the combat check" to "When playing another weapon, you may discard this card to add 1d4 to your combat check".
-
-This change also affects many Daggers and Dagger-like cards in other sets. The complete list:
-
-Rise of the Runelords: Dagger (B & C), Starknife (B), Dagger +1 (1), War Razor +1 (2), Venomous Dagger +2 (3), Giantbane Dagger +1 (4), Dancing Scimitar +2 (5)
-Skull & Shackles: Dagger (B), Animalbane Dagger +1 (1), Dagger Pistol +1 (2), Sharpshooter's Blade (3), Invigorating Kukri +1 (4)
-Class Decks: Adamantine Poniard +1 (Ranger), Animalbane Dagger +1 (Rogue), Dagger (Ranger, Rogue, Sorcerer), Dancing Mace +2 (Fighter, Ranger, Wizard), Dancing Scimitar +2 (Cleric), Invigorating Kukri +1 (Ranger, Rogue)
-
-posted Oct 14, 2014 | back to top
-
-## The Heavy Crossbow in Skull & Shackles has the Elite trait, but the one in Rise of the Runelords doesn't. Which is correct?
-
-The Runelords one.
-
-Resolution: On the weapon Heavy Crossbow, remove the Elite trait.
-
-posted Apr 13, 2015 | back to top
-
-## Can I play Main-Gauche with another weapon or not? The first sentence tells me when I can't, not when I can.
-
-You can, so long as you didn't play another weapon with the 2-Handed trait.
-
-Resolution: On the weapon Main-Gauche, replace the text with the following:
-
-For your combat check, reveal this card to use your Strength or Melee skill + 1d4.
-
-Discard this card to reduce Combat damage dealt to you by 2. You may play this card on a check even if you played a weapon that does not have the 2-Handed trait.
-
-posted Tuesday | back to top
-
-## 왜 `스로잉 액스`를 리빌하는 대신 버려야 하나요(Why would I discard the Throwing Axe instead of revealing it)?
-
-`대신`은 `추가적으로`로 변경되어야 합니다.
-
-> "Instead" should be "additionally". Throwing it is better than swinging it.
-
-> Resolution: On the weapon Throwing Axe, change "instead" to "additionally".
-
-posted Sep 12, 2014 | back to top
-
-## `컨퓨전`은 `Attack` 특성이 있어야 합니까(Should Confusion have the Attack trait)?
-
-예.
-
-> Yes.
-
-> Resolution: On the spell Confusion, add the Attack trait.
-
-posted Oct 30, 2014 | back to top
-
-## Should the Buckler Gun add the Piercing trait to the check?
-
-Yes.
-
-Resolution: On the armor Buckler Gun, change "add the Ranged trait" to "add the Piercing and Ranged traits".
-
-posted Nov 19, 2014 | back to top
-
-## If I reveal Swab when I would have to shuffle cards into my deck, can that Swab be one of those cards?
-
-No. Once you play Swab, it can't be shuffled into your deck at that time.
-
-Resolution: On the ally Swab, change "Reveal this card…" to "Display this card…"
-
-posted Mar 18, 2015 | back to top
