@@ -20,6 +20,14 @@ posted Jan 30, 2015 | back to top
 
 posted Jan 5, 2015 | back to top
 
+## Dagon's Jaws says "This location remains open until both stacks are closed." Does that mean I can't temporarily close either stack?
+
+You can temp close.
+
+Resolution: On the location Dagon's Jaws, replace "This location remains open until both stacks are closed" with "Do not flip this card until both stacks are closed".
+
+posted Tue, Jun 23, 2015 | back to top
+
 ## 소환된 카드와 인카운트한 후 별도의 언급이 없다면 그 카드는 항상 박스로 돌아가야 합니다. 그런데 `Gilbrok the Tongue`는 헨치멘을 소환한 후 물리쳐지지 않으면 캐릭터에 붙어있어야 할 것 같은데 별도의 언급이 없습니다. 어떻게 해야 하나요(When you resolve an encounter with a summoned card, it's always supposed to go back in the box unless the card that summons it tells you otherwise. But Gilbrok the Tongue summons a henchman that seems like it’s supposed to stick around if undefeated, but Gilbrok doesn't actually tell you otherwise. What happens)?
 
 소환된 헨치멘은 디스플레이되어야 합니다. 헨치멘을 물리치지 못하면 캐릭터 카드 옆에 디스플레이 하세요.
