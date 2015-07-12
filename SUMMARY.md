@@ -4,6 +4,7 @@
 
 * [Skull & Shakles](sns/SnS-FAQ.md)
     * [일반 규칙 질문](sns/sns-rulesquestions.md)
+    * [베이스 박스 카드 질문](sns-baseset.md)
     * [클래스 추가 덱](sns/sns-characteraddon.md)
     * [어드벤처 덱 1](sns/sns-adventuredeck-1.md)
     * [어드벤처 덱 2](sns/sns-adventuredeck-2.md)

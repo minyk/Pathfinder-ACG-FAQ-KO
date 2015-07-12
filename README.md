@@ -22,11 +22,14 @@ $ gitbook build
 ```
 
 * Calibre 를 설치한 이후 [ebook-converter](http://manual.calibre-ebook.com/cli/ebook-convert.html)를 사용하여 pdf, epub 형태로 생성할 수 있습니다.
-
+ * Calibre 설치
+ ```
+ sudo -v && wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
+ ```
+ * PDF 또는 epub 빌드 
 ```
 $ gitbook pdf
 ```
-
 ```
 $ gitbook epub
 ```
