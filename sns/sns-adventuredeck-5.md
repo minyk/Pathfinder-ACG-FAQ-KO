@@ -20,11 +20,13 @@ posted Jan 30, 2015 | back to top
 
 posted Jan 5, 2015 | back to top
 
-## Dagon's Jaws says "This location remains open until both stacks are closed." Does that mean I can't temporarily close either stack?
+## `Dagon's Jaws`에는 "이 장소는 두개의 카드 더미가 닫힐 때까지 열려 있습니다." 라고 되어 있습니다. 이 장소는 임시 폐쇄할 수 없나요(Dagon's Jaws says "This location remains open until both stacks are closed." Does that mean I can't temporarily close either stack)?
 
-You can temp close.
+임시 폐쇄할 수 있습니다.
 
-Resolution: On the location Dagon's Jaws, replace "This location remains open until both stacks are closed" with "Do not flip this card until both stacks are closed".
+> You can temp close.
+
+> Resolution: On the location Dagon's Jaws, replace "This location remains open until both stacks are closed" with "Do not flip this card until both stacks are closed".
 
 posted Tue, Jun 23, 2015 | back to top
 

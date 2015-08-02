@@ -30,6 +30,14 @@ posted Sep 18, 2014 | back to top
 
 posted Sep 18, 2014 | back to top
 
+## 다른 장소에 있는 캐릭터가 `Fog Bank`의 카드를 본 경우에도 섞어야 하나요(Does the Fog Bank get shuffled when characters at other locations examine cards in it)?
+
+예.
+
+> Yes.
+
+> Resolution: On the location Fog Bank, change the At This Location power to "After a character at any location examines cards in this location deck, shuffle it."
+
 ## `Tempest Cay`는 배가 구조 피해를 받을 때 피해를 1점 증가시킨다고 나와 있습니다. 이 파워는 배가 어디에 있던, 혹은 `Tempest Cay`에 플레이어가 얼마나 있는지 관계 없이 발동되나요(Tempest Cay says "If your ship is dealt Structural damage, increase the damage by 1." Does it matter where the ship is, or how many characters are at Tempest Cay)?
 
 두 가지 모두 차이가 없습니다. 플레이어가 한명이라도 `Tempest Cay`에 있다면, 배의 위치와 관계없이 구조 피해는 1점이 증가합니다.
