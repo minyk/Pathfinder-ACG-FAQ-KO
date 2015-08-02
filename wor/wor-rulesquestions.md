@@ -39,6 +39,16 @@ Resolution: On page 10 of the rulebook, in the second paragraph of Encountering 
 
 posted Mon, Jun 1, 2015 | back to top
 
+## If a power allows you to automatically defeat or acquire a card, does it count as succeeding at the check or checks to do so? And when exactly do I use that power?
+
+It does count as succeeding at the required checks, and you use it when you would attempt the check.
+
+Resolution: On page 10 of the rulebook, under Attempt the Check, add the following as a new paragraph after the first paragraph.
+
+If a power allows you to automatically defeat or acquire a card, you may use it instead of attempting the check. Using such a power counts as succeeding at all checks required to defeat or acquire the card. You may not use such a power on any card that does not have a check to acquire or defeat, or on any card that has a check you're not allowed to succeed at.
+
+posted Mon, Jul 27, 2015 | back to top
+
 ## If there are multiple faceup cards on top of a single location deck, are you supposed to encounter them all in a single exploration?
 
 One per exploration.
@@ -78,13 +88,37 @@ Resolution: On page 13 of the rulebook, under Attempt the Roll, add the followin
 
 posted May 26, 2015 | back to top
 
+## If your character dies during an encounter, do you keep doing the steps of your turn? What happens to the card you were encountering?
+
+If your character dies, your turn immediately ends. So this rule tells you what to do with the card you were encountering.
+
+Resolution: On page 14 of the rulebook, under Dying, add the italicized text to the following sentence: "Bury your deck, hand, and discard pile; your turn immediately ends."
+
+posted Tue, Jul 28, 2015 | back to top
+
 ## When something affects all characters, or a random character, could it affect a dead character?
 
 Only if it specifically has a provision for affecting dead characters.
 
 Resolution: On page 14 of the rulebook, under Dying, amend the following sentence with the portion in italics: "You cannot take turns, play cards, move, or do anything else for the rest of this scenario; effects that refer to characters do not affect you unless they specifically refer to dead characters.
 
-posted Tue, Jun 2, 2015 | back to top
+posted Jun 2, 2015 | back to top
+
+## Can you close a location that your character is not at?
+
+No.
+
+Resolution: Under Closing a Location on page 15, add the following to the end of the first paragraph: "You can never attempt to close a location unless your character is at that location."
+
+posted Tue, Jul 14, 2015 | back to top
+
+## If I have a power that refers to a blessing named for a deity, can I use it only with that specific blessing?
+
+You can use it with any blessing that has the trait of that deity.
+
+Resolution: On page 24 of the rulebook, under Blessing, add "When a power refers to a blessing of a particular deity, it works with any blessing that has that deity's name as a trait. For example, a power that refers to Blessing of Iomedae also applies to any blessing that has the Iomedae trait."
+
+posted Jun 29, 2015 | back to top
 
 ## Can a bane with a Check to Defeat of "None" or "See Below" be defeated by a power that automatically defeats that type of bane?
 
@@ -93,3 +127,11 @@ Not unless the bane says so.
 Resolution: On page 25 of the rulebook, under Check to Defeat, change 'If the check is listed as “None,” the bane cannot be defeated' to 'If the check is listed as “None” or “See Below,” the requirements to defeat the bane may be stated in the bane’s power. If the check is listed as “None” and the power does not state the requirements to defeat the bane, the bane cannot be defeated.' Note: This resolution was incorporated into PDF Edition 1.0 of the rulebook.
 
 posted May 27, 2015 | back to top
+
+## When a bane has a power that triggers when "you" do something, does "you" mean just the person encountering the bane, or anybody doing that thing?
+
+It applies to anybody who does that thing.
+
+Resolution: On page 25 of the rulebook, under Banes, add the following to the end of the Powers section: "If a bane says an effect happens if or when you do a particular thing, it applies to any character who does that thing. If it limits the things you can do, that limit applies to any character who wants to do those things."
+
+posted Mon, Jul 27, 2015 | back to top

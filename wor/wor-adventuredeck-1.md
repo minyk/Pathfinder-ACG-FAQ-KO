@@ -14,6 +14,14 @@ Resolution: On the scenario The Wardstone Legacy, change both occurrences of "Wh
 
 posted Thu, May 28, 2015 | back to top
 
+## I'm at the Collapsing Bridge, and at the end of my turn, I had to banish the boons there. Do I shuffle the deck?
+
+Yes.
+
+Resolution: On the location Collapsing Bridge, change the At This Location text to "At the end of your turn, roll 1d10; if you roll higher than the number of cards in this deck, search it for boons and banish them all."
+
+posted Jul 2, 2015 | back to top
+
 ## Is Poison Spiked Pit Trap supposed to deal the Poison damage to characters at other locations?
 
 No, just the ones at the barrier's location.

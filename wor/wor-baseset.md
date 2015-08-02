@@ -32,6 +32,14 @@ Resolution: On the scenario The Elven Entanglement, change the second power to "
 
 posted Wed, Jun 10, 2015 | back to top
 
+## Is the difficulty of checks to defeat banes at the Abattoir increased by the number of characters in the game, or just the number of characters at the Abattoir?
+
+The number of characters in the game.
+
+Resolution: On the location Abattoir, change the At This Location power to "The difficulty of any check to defeat a bane is increased by the number of characters at all locations."
+
+posted Tue, Jul 14, 2015 | back to top
+
 ## Ulkreth has me attempting a Knowledge check while I am already making a check to defeat. Do you really want that?
 
 No—that Knowledge check needs to happen earlier.
