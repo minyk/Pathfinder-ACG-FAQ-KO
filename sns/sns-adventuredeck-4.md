@@ -66,7 +66,7 @@ posted Jan 5, 2015 | back to top
 
 posted Jan 5, 2015 | back to top
 
-## `Conch of the Tritons says`는 체크에 다른 카드들을 사용하지 못하도록 되어 있습니다. 캐릭터 파워는 어떻게 되나요(Conch of the Tritons says other cards can't be used on the check. What about character powers)?
+## `Conch of the Tritons`는 체크에 다른 카드들을 사용하지 못하도록 되어 있습니다. 캐릭터 파워는 어떻게 되나요(Conch of the Tritons says other cards can't be used on the check. What about character powers)?
 
 사용할 수 없습니다.
 

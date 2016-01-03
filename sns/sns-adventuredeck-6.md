@@ -10,6 +10,16 @@
 
 posted yesterday | back to top
 
+## `Admiral Druvalia Thrune`의 두번째 파워는 주사위를 굴린 숫자에만 적용되나요, 아니면 결과(수정치를 포함한)에 적용되나요(Does Admiral Druvalia Thrune's second power apply to the die roll alone, or the result (with modifiers))?
+
+수정치를 포함한 결과를 말합니다.
+
+> The result, including modifiers.
+
+> Resolution: On the villain Admiral Druvalia Thrune, change the second power to "After you roll, if your result exceeded the difficulty, you are dealt Force damage equal to the difference between the two."
+
+posted Aug 17, 2015 | back to top
+
 ## `Chelish Marine`를 인카운트 했을 때 또다른 `Chelish Marine`를 소환해서 싸워야 하나요(When I encounter a Chelish Marine, am I supposed to summon another one for myself)?
 
 아니오-이미 인카운트한 카드만 처리하면 됩니다.
@@ -49,6 +59,16 @@ posted Mar 11, 2015 | back to top
 > Resolution: On the weapon Doubleshot Pepperbox, delete the phrase "or on a 1–4 if you buried any cards to add damage".
 
 posted Mar 11, 2015 | back to top
+
+## `Old Salt's Rapier +2`를 제외한 모든 레이피어는 `Sword` 특성이 있습니다. `Old Salt's Rapier +2`에도 `Sword` 특성이 있어야 하나요(All rapiers have the Sword trait, except for Old Salt's Rapier +2, which has the Rapier trait. Should that be the Sword trait)?
+
+있어야 합니다.
+
+> It should.
+
+> Resolution: On the weapon Old Salt's Rapier +2, replace the Rapier trait with the Sword trait.
+
+posted Sep 15, 2015 | back to top
 
 ## `Recast`를 나의 체크 동안 사용할 수 있나요? 할 수 있다면, `Recast`한 스펠을 다시 플레이할 수 있나요(Can I play Recast during my check? If I do, can I play the spell I recast)?
 

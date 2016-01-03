@@ -30,6 +30,16 @@ posted Jan 5, 2015 | back to top
 
 posted Tue, Jun 23, 2015 | back to top
 
+## `Incutilis`는 소환된 몬스터를 물리치는지 못하는지 여부에 따라 그 카드를 물리치는지 못하는지가 결정됩니다. 만일 회피하면 어떻게 되나요(Incutilis is defeated or undefeated based on the result of an encounter with a summoned monster. What happens if I evade that summoned monster)?
+
+물리치는지에만 신경쓰면 됩니다. 몬스터를 회피하면, 물리치지 못한 것이므로, `Incutilis`를 물리치지 못한 것입니다. 
+
+> Incutilis really cares about whether or not you defeated it. If you evaded it, you didn't defeat it, so Incutilis is undefeated.
+
+> Resolution: On the villain Incutilis, replace "The Incutilis is defeated or undefeated based solely on the result of that encounter" with "The Incutilis is defeated only if you defeat the monster; otherwise, it is undefeated."
+
+posted Sep 15, 2015 | back to top
+
 ## 소환된 카드와 인카운트한 후 별도의 언급이 없다면 그 카드는 항상 박스로 돌아가야 합니다. 그런데 `Gilbrok the Tongue`는 헨치멘을 소환한 후 물리쳐지지 않으면 캐릭터에 붙어있어야 할 것 같은데 별도의 언급이 없습니다. 어떻게 해야 하나요(When you resolve an encounter with a summoned card, it's always supposed to go back in the box unless the card that summons it tells you otherwise. But Gilbrok the Tongue summons a henchman that seems like it’s supposed to stick around if undefeated, but Gilbrok doesn't actually tell you otherwise. What happens)?
 
 소환된 헨치멘은 디스플레이되어야 합니다. 헨치멘을 물리치지 못하면 캐릭터 카드 옆에 디스플레이 하세요.

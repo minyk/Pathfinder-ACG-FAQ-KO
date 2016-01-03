@@ -174,6 +174,14 @@ posted Tuesday | back to top
 
 posted Sep 12, 2014 | back to top
 
+## `Call Weapon`을 `bury` 할 때에도 리차지를 시도할 수 있나요(Can I try to recharge Call Weapon after burying it)?
+
+예
+
+> Yes.
+
+> Resolution: On the spell Call Weapon, change "instead of discarding it" to "instead of discarding or burying it".
+
 ## `컨퓨전`은 `Attack` 특성이 있어야 합니까(Should Confusion have the Attack trait)?
 
 예.
