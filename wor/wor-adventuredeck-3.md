@@ -8,6 +8,14 @@ Resolution: On the scenario Crusader's Legacy, change the last power to "When yo
 
 posted Mon, Jul 27, 2015 | back to top
 
+## In The Demon's Redoubt, you add Grimslakes to the top of the location deck before you add the villain and henchmen, so they get shuffled in. Is that right? And are you meant to put a Grimslake on top of the Tower of the Fourth Sphere deck?
+
+You should shuffle the villain and henchmen in first, then add the Grimslakes to the top. And you should only add the Grimslakes during setup, not whenever you build a location.
+
+Resolution: On the scenario The Demon's Redoubt, change "After you build location decks, put a Grimslake henchman on top of each one" to "After you add the villain and henchmen to the location decks, put a Grimslake henchman on top of each".
+
+posted Aug 7, 2015 | back to top
+
 ## Only one of my checks to defeat the Drake Rider has the Force or Ranged trait. Do I get to add 5 to the check that doesn't?
 
 Nope.

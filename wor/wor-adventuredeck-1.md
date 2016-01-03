@@ -1,18 +1,28 @@
 # Card Questions: The Worldwound Incursion (Wrath of the Righteous Adventure Deck 1)
 
 ## The Example of Play in the printed rulebook suggests Millorn is the villain for the scenario Under the Broken City, but the card says it's Thurl and Inhaz. Who is the villain?
+
 Millorn.
 
 Resolution: On the scenario Under the Broken City, change the villain from "Thurl and Inhaz" to "Millorn".
 
 posted May 27, 2015 | back to top
 
-## In the Wardstone Legacy, are the effects that mess with the blessings you play supposed to happen before or after the effects of the blessings you play?
+## In The Wardstone Legacy, are the effects that mess with the blessings you play supposed to happen before or after the effects of the blessings you play?
+
 After.
 
 Resolution: On the scenario The Wardstone Legacy, change both occurrences of "When you play" to "After you play".
 
-posted Thu, May 28, 2015 | back to top
+posted May 28, 2015 | back to top
+
+## In The Wardstone Legacy, if I play a non-Corrupted blessing, but no Corrupted blessings are left in the box, do I still banish it?
+
+No.
+
+Resolution: On the scenario The Wardstone Legacy, replace "When you play any other blessing and it does not have the Corrupted trait, banish it and replace it with a random blessing that has the Corrupted trait from the box" with "After you play any other blessing, if it does not have the Corrupted trait, exchange it with a random blessing that has the Corrupted trait from the box". (With this wording, if there are no random blessings that have the Corrupted trait left in the box, the instruction becomes impossible, so the Golden Rule tells you to ignore it.)
+
+posted Aug 14, 2015 | back to top
 
 ## I'm at the Collapsing Bridge, and at the end of my turn, I had to banish the boons there. Do I shuffle the deck?
 
@@ -36,4 +46,4 @@ Yep.
 
 Resolution: On the loot Radiance, add the Slashing trait.
 
-posted Wed, Jun 10, 2015 | back to top
+posted Jun 10, 2015 | back to top
