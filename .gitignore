@@ -48,6 +48,6 @@ crashlytics.properties
 crashlytics-build.properties
 
 # Gitbook build directory
-
+_book
 *.pdf
 *.epub
