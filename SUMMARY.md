@@ -28,6 +28,8 @@
     * [Bard 클레스 덱 질문](classdeck/classdeck-bard.md)
     * [Cleric 클레스 덱 질문](classdeck/classdeck-cleric.md)
     * [Fighter 클레스 덱 질문](classdeck/classdeck-fighter.md)
+    * [Monk 클레스 덱 질문](classdeck/classdeck-monk.md)
+    * [Paladin 클레스 덱 질문](classdeck/classdeck-paladin.md)
     * [Ranger 클레스 덱 질문](classdeck/classdeck-ranger.md)
     * [Rogue 클레스 덱 질문](classdeck/classdeck-rogue.md)
     * [Sorcerer 클레스 덱 질문](classdeck/classdeck-sorcerer.md)
