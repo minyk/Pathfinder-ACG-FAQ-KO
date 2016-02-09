@@ -70,3 +70,17 @@ posted Mar 18, 2015 | back to top
 
 posted Apr 27, 2015 | back to top
 
+## `bane`을 인카운트한 후 재충전 후 카드를 집을 의도 없이(역자주: 파워를 사용하지 않고) `Gloves of Dueling`를 버릴 수 있나요(Can I discard Gloves of Dueling when I encounter a bane, even if I have no intention of recharging and drawing cards)?
+
+아니오.
+
+> No.
+
+> Resolution: On the item Gloves of Dueling, replace the powers with the following:
+
+>> When you encounter a bane, discard this card to recharge any number of cards, then draw the same number of cards.
+
+>> After playing this card, you may reveal a card that has the Finesse or Swashbuckling trait to recharge this card instead of discarding it.
+
+posted Fri, Feb 5, 2016 | back to top
+

@@ -10,6 +10,16 @@
 
 posted Oct 15, 2014 | back to top
 
+## `Attack on Rickety's Squibs` 시나리오에서 `Merfolk`을 회피하면 옆에 놓은 동료는 어떻게 되나요(In Attack on Rickety's Squibs, if I evade the Merfolk, what happens to the ally I set aside)?
+
+제거해야 합니다.
+
+> You banish it.
+
+> Resolution: On the scenario Attack on Rickety's Squibs, change "if undefeated, banish the ally" to "otherwise, banish the ally".
+
+posted Sat, Jan 23, 2016 | back to top
+
 ## `Krelloort`를 인카운터 했고 그 장소 덱에 다른 카드들이 있다면 그는 덱의 바닥으로 이동됩니다. 이건 회피된건가요? 물리친건가요, 물리치지 못한 건가요(When you encounter Krelloort, and there are other cards in the location deck, he goes to the bottom of the deck. Is he evaded? Defeated? Undefeated)?
 
 회피된 것입니다.
@@ -29,6 +39,16 @@ posted Apr 27, 2015 | back to top
 > Resolution: On the villain The Matron, change the last paragraph to "If defeated, when you would close the location, instead banish The Matron and shuffle the villain Krelloort into the location deck."
 
 posted Oct 21, 2014 | back to top
+
+## `Sea Cat`을 "before you act" 단계 이후에 회피하면 표시한 동료는 어떻게 되나요(If I evade the Sea Cat after the "before you act" step, what happens to the ally I displayed)?
+
+제거해야 합니다.
+
+> You banish it.
+
+> Resolution: On the monster Sea Cat, change "if undefeated, bury the ally" to "otherwise, banish it".
+
+posted Sat, Jan 23, 2016 | back to top
 
 ## `Aqueous Orb`를 컴뱃 체크에 사용하고 또 다른 주문을 사용할 수 있나요? `Arcane`이나 `Divine` 스킬이 없을 때 오브가 배니쉬되는 것을 피하기 위해서 버리면서 추가 데미지를 주는 능력을 사용할 수 있나요(If I make a combat check using Aqueous Orb, can I play another spell? If I don't have the Arcane or Divine skill, can I discard Aqueous Orb for its additional damage and thus avoid having to banish the card)?
 

@@ -84,6 +84,16 @@ posted Oct 15, 2014 | back to top
 
 posted Jan 5, 2015 | back to top
 
+## `Smuggler`를 "before you act" 단계 이후에 회피한다면 표시된 카드는 어떻게 되나요(If I evade the Smuggler after the "before you act" step, what happens to the card I displayed)?
+
+매장해야 합니다.
+
+> You bury it.
+
+> Resolution: On the monster Smuggler, change "If defeated, discard it; if undefeated, bury it" to "If defeated, discard it; otherwise, bury it".
+
+posted Sat, Jan 23, 2016 | back to top
+
 ## `앰부쉬`의 주사위 패널티는 인카운트하는 몬스터의 모든 체크에 적용되어야 하나요(Should the Ambush die penalty apply to all checks against the encountered monster)?
 
 예.

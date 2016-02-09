@@ -20,6 +20,16 @@ posted yesterday | back to top
 
 posted Aug 17, 2015 | back to top
 
+## `Cannon Golem`은 `Attack` 특성이 있는 아이템의 영향을 받나요(Is the Cannon Golem affected by items that have the Attack trait)?
+
+아니오.
+
+> No.
+
+> Resolution: On the henchman Cannon Golem, change "You may not play spells that have the Attack trait" to "The Cannon Golem is immune to the Attack and Mental traits".
+
+posted Wed, Feb 3, 2016 | back to top
+
 ## `Chelish Marine`를 인카운트 했을 때 또다른 `Chelish Marine`를 소환해서 싸워야 하나요(When I encounter a Chelish Marine, am I supposed to summon another one for myself)?
 
 아니오-이미 인카운트한 카드만 처리하면 됩니다.

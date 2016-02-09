@@ -56,6 +56,16 @@ posted Feb 3, 2015 | back to top
 
 posted Jan 5, 2015 | back to top
 
+## `Coral Golem`은 `Attack` 특성이 있는 아이템에 의해서 영향을 받나요(Is the Coral Golem affected by items that have the Attack trait)?
+
+아니오.
+
+> No.
+
+> Resolution: On the monster Coral Golem, change "You may not play spells that have the Attack trait" to "The Coral Golem is immune to the Attack and Mental traits".
+
+posted Wed, Feb 3, 2016 | back to top
+
 ## `Gargoyle Sniper`는 파워 사용 후 `Perception` 체크를 하도록 되어 있습니다. 그러나 비슷한 효과를 가진 다른 카드들은 `Wisdon`과 `Perception` 체크를 하도록 되어 있습니다. 양쪽 모두 있어야 하는 것 아닌가요(On Gargoyle Sniper, you have to succeed at a Perception check to avoid the negative effect. But a similar effect on a couple of cards in Adventure Deck 6 can be bypassed with a Wisdom or Perception check. Should this match those)?
 
 예.

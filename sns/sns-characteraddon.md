@@ -42,6 +42,16 @@ posted Sep 2, 2014 | back to top
 
 posted Sep 3, 2014 | back to top
 
+## `Water Elemental`은 `Outsider` 특성이 있어야 하지 않나요(Shouldn't Water Elemental have the Outsider trait)?
+
+예.
+
+> Yes.
+
+> Resolution: On the monster Water Elemental, add the Outsider trait.
+
+posted Thu, Feb 4, 2016 | back to top
+
 ## `Potion of Lucubration`은 정말로 `Elite` 특성이 있습니까(Is the Potion of Lucubration really supposed to have the Elite Trait)?
 
 아니오, `Basic` 입니다.
