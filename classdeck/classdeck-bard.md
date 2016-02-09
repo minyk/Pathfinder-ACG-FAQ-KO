@@ -10,6 +10,16 @@
 
 posted September 2014 | back to top
 
+## `Brawler Meliski`의 파워 중 전투 체크에 블레싱을 2장 사용하게 해주는 피트를 얻은 후, 블레싱을 1장만 사용해도 재충전이 가능한가요(If Brawler Meliski has taken the feats that allow him to play 2 blessings on a combat check and recharge them, if he only plays 1 blessing, can he still recharge it)?
+
+예.
+
+> Yes.
+
+> Resolution: On the Brawler side of Meliski's role card, change "You may play 2 blessings on your combat check" to "You may play up to 2 blessings on your combat check".
+
+posted Tue, Jan 26, 2016 | back to top
+
 ## `Siwar the Courtier`와 같이 있는 캐릭터가 동료를 얻는 체크를 실패하였을 때에도 그 동료카드를 `Siwar`의 버린 카드 더미에 넣을 수 있나요(If a character at Siwar the Courtier's location fails to acquire an ally, can Siwar put it in her discard pile)?
 
 아니오. 그 능력은 동료 카드가 파워를 사용함으로 인해서 매장되거나 제거되는 경우에만 해당됩니다.
@@ -19,6 +29,16 @@ posted September 2014 | back to top
 > Resolution: On the Courtier side of Siwar's role card, change "When another character at your location would banish or bury an ally, he may put it in your discard pile instead" to When another character at your location would banish or bury an ally for its power, he may put it in your discard pile instead".
 
 posted Thu, Jan 7, 2016 | back to top
+
+## `Siwar the Courtier`가 여러번의 체크가 있는 `bane`을 물리치기 위한 체크에서 동료를 재충전하여 주사위를 추가하는 경우 그 몬스터의 다른 체크에도 주사위가 추가되나요(When Siwar the Courtier recharges allies to add to her check to defeat a bane with multiple checks to defeat, does she get to add 1d6 per ally to all of those checks)?
+
+예.
+
+> Yes.
+
+> Resolution: On the Courtier side of Siwar's role card, change "add 1d6 to your check to defeat the bane" to "add 1d6 to your checks to defeat the bane".
+
+posted Thu, Feb 4, 2016 | back to top
 
 ## `Siwar the Manipulator`는 특정 체크에서 `Diplomacy` 스킬을 쓸 수 있는 파워가 있습니다. 파워의 말이 약간 이상하지 않나요(Siwar the Manipulator has a power that lets her use her Diplomacy skill for certain checks. The wording is a bit awkward, isn't it)?
 

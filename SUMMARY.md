@@ -24,7 +24,7 @@
     * [어드벤처 덱 5](wor/wor-adventuredeck-5.md)
     * [어드벤처 덱 6](wor/wor-adventuredeck-6.md)
     * [프로모 카드](wor/wor-promo.md)
-* [Class Deck](classdeck/Classdeck-FAQ.md)
+* [Class Deck & Iconic Heroes](classdeck/Classdeck-FAQ.md)
     * [Bard 클레스 덱 질문](classdeck/classdeck-bard.md)
     * [Cleric 클레스 덱 질문](classdeck/classdeck-cleric.md)
     * [Fighter 클레스 덱 질문](classdeck/classdeck-fighter.md)
@@ -34,3 +34,4 @@
     * [Rogue 클레스 덱 질문](classdeck/classdeck-rogue.md)
     * [Sorcerer 클레스 덱 질문](classdeck/classdeck-sorcerer.md)
     * [Wizard 클레스 덱 질문](classdeck/classdeck-wizard.md)
+    * [Iconic Heroes 질문](classdeck/iconicheroes.md)

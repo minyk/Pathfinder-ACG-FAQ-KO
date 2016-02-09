@@ -3,4 +3,4 @@
 
 * 이하의 내용은 Paizo.com의 FAQ 페이지에서 발췌하였습니다(Below contests are from the [Paizo.com](http://paizo.com/paizo/faq/v5748nruor1gv) ).
 
-Last updated: January 07, 2016.
+Last updated: February 04, 2016.
