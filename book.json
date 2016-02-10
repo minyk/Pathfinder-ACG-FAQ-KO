@@ -13,6 +13,22 @@
         "star",
         "fork"
       ]
+    },
+    "autocover": {
+      "title": "패스파인더 어드벤처 카드 게임 비공식 FAQ",
+      "author": "Paizo.com",
+      "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+      },
+      "size": {
+        "w": 1800,
+        "h": 2360
+      },
+      "background": {
+        "color": "#09F"
+      }
     }
   }
 }

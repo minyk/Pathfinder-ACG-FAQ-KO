@@ -1,3 +1,5 @@
+![Logo of PACG](./images/pacg.png)
+
 패스파인더 어드벤처 카드 게임 자주 묻는 질문
 =======================================
 
@@ -37,3 +39,7 @@ $ gitbook pdf
 ```
 $ gitbook epub
 ```
+
+# Acknowledgements
+
+All images are came from `Paizo.com` under the [Paizo Community Use Policy](http://paizo.com/paizo/about/communityuse).
