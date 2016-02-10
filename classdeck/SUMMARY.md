@@ -12,3 +12,4 @@
 * [Rogue 클레스 덱 질문](classdeck-rogue.md)
 * [Sorcerer 클레스 덱 질문](classdeck-sorcerer.md)
 * [Wizard 클레스 덱 질문](classdeck-wizard.md)
+* [Iconic Heroes 질문](iconicheroes.md)
