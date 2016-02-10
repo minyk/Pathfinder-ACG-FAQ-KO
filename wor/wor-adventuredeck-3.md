@@ -22,6 +22,26 @@ posted Mon, Jul 27, 2015 | back to top
 
 posted Aug 7, 2015 | back to top
 
+## `Wintersun` 시나리오에서 둘 이상의 체크를 가진 카드를 얻거나 물리칠 때 시나리오의 파워를 사용하면 그 카드의 모든 체크에서 1d8 을 더할 수 있나요(In Wintersun, when you use the scenario's power to defeat or acquire a card with multiple checks, do you get to add 1d8 to all of those checks)?
+
+예.
+
+> Yes.
+
+> Resolution: On the scenario Wintersun, change "add 1d8 to your check to defeat or acquire a card" to "add 1d8 to your checks to defeat or acquire a card".
+
+posted Thu, Feb 4, 2016 | back to top
+
+## `Alrys Harnaste`는 이 헨치멘이 나타난 장소를 닫는 체크의 성공에 관계없이 표시 할 수 있나요(Do you display Alrys Harnaste if you fail to close the location he came from, or only if you succeed)?
+
+성공한 경우에만 표시할 수 있습니다.
+
+> Only if you succeed.
+
+> Resolution: On the henchman Alrys Harnaste, change "if you do, display this card next to your deck" to "if you succeed, display this card next to your deck".
+
+posted Wed, Feb 3, 2016 | back to top
+
 ## `Drake Rider`를 물리칠 때 하나의 체크에만 `Force` 나 `Ranged` 특성이 있습니다. 해당 특성이 없는 체크에도 5를 더할 수 있나요(Only one of my checks to defeat the Drake Rider has the Force or Ranged trait. Do I get to add 5 to the check that doesn't)?
 
 아니오.

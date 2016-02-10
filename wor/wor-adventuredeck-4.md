@@ -97,3 +97,13 @@ posted Oct 20, 2015 | back to top
 > Resolution: On the item Climber’s Gloves, add the following sentence to the end of the second power: ”You may not use this power more than once per check or step.”
 
 posted Nov 14, 2015 | back to top
+
+## `Holy Radiance`는 `Slashing` 특성이 있어야 하지 않나요(Should the sword Holy Radiance have the Slashing trait)?
+
+엡.
+
+> Yep.
+
+> Resolution: On the loot Holy Radiance, add the Slashing trait.
+
+posted Jan 13, 2016 | back to top

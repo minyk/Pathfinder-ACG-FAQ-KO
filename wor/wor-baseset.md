@@ -145,6 +145,18 @@ posted Sep 10, 2015 | back to top
 
 posted Jun 1, 2015 | back to top
 
+## 골렘들은 `Attack` 특성이 있는 아이템의 영향을 받아야 하나요(Are golems affected by items that have the Attack trait)?
+
+아니오.
+
+> No.
+
+> Resolution: On the monster Carrion Golem, change "You may not play spells that have the Attack trait" to "The Carrion Golem is immune to the Attack and Mental traits". (This card also appears in the Character Add-On Deck.)
+
+> This also applies to the monsters Warmonger Wasp in adventure deck 3 and Stone Golem and Urannag in adventure deck 4, and the henchman Devastator in adventure deck 6.
+
+posted Wed, Feb 3, 2016 | back to top
+
 ## `Giant Maggot Swarm`을 인카운터했을때 그 캐릭터도 두번째를 소환하여 인카운터해야 하나요(When I encounter a Giant Maggot Swarm in a location deck, do I have to summon and encounter a second one)?
 
 아니오. 다른 캐릭터만 수행합니다.
