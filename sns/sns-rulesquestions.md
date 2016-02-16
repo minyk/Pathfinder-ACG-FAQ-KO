@@ -134,9 +134,9 @@ posted Jan 7, 2015 | back to top
 
 posted Jan 5, 2015 | back to top
 
-## 파워를 사용하기 위해서 카드를 리빌할 때 손 패에 어떤 일이 발생한다면, 리빌한 카드는 손 패에 있는 카드인가요(If I reveal a card for a power, and then something messes with my hand, is the revealed card in my hand? What if I display it? If I discard a card that could be recharged, but something messes with my discard pile before I can make the check to recharge it, is the card really in the discard pile)?
+## 파워를 사용하기 위해서 카드를 공개할 때 손 패에 어떤 일이 발생한다면, 공개한 카드는 손 패에 있는 카드인가요(If I reveal a card for a power, and then something messes with my hand, is the revealed card in my hand? What if I display it? If I discard a card that could be recharged, but something messes with my discard pile before I can make the check to recharge it, is the card really in the discard pile)?
 
-카드를 리빌하거나 디스플레이하는 것은 즉시 발생됩니다. 모든 다른 액션은 당신이 그 것이 어떤 액션인지 알 때까지 대기합니다.
+카드를 공개하거나 디스플레이하는 것은 즉시 발생됩니다. 모든 다른 액션은 당신이 그 것이 어떤 액션인지 알 때까지 대기합니다.
 
 > Revealing and displaying happen instantly. Every other action waits until you know what action it really is.
 

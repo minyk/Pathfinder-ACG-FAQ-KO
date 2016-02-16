@@ -174,7 +174,7 @@ posted Apr 13, 2015 | back to top
 
 posted Tuesday | back to top
 
-## 왜 `스로잉 액스`를 리빌하는 대신 버려야 하나요(Why would I discard the Throwing Axe instead of revealing it)?
+## 왜 `스로잉 액스`를 공개하는 대신 버려야 하나요(Why would I discard the Throwing Axe instead of revealing it)?
 
 `대신`은 `추가적으로`로 변경되어야 합니다.
 
