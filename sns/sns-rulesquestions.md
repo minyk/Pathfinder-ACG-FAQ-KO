@@ -114,7 +114,7 @@ End Your Turn step: 먼저 턴의 끝에 일어나는 모든 효과를 적용합
 
 posted Nov 4, 2014 | back to top
 
-## 디스플레이되어 있는 카드의 파워를 발동하는 것은 그 카드를 사용하는 것으로 간주하나요(Does activating a power on a displayed card count as playing it)?
+## 표시되어 있는 카드의 파워를 발동하는 것은 그 카드를 사용하는 것으로 간주하나요(Does activating a power on a displayed card count as playing it)?
 
 예, 그렇습니다. 
 
@@ -136,7 +136,7 @@ posted Jan 5, 2015 | back to top
 
 ## 파워를 사용하기 위해서 카드를 공개할 때 손 패에 어떤 일이 발생한다면, 공개한 카드는 손 패에 있는 카드인가요(If I reveal a card for a power, and then something messes with my hand, is the revealed card in my hand? What if I display it? If I discard a card that could be recharged, but something messes with my discard pile before I can make the check to recharge it, is the card really in the discard pile)?
 
-카드를 공개하거나 디스플레이하는 것은 즉시 발생됩니다. 모든 다른 액션은 당신이 그 것이 어떤 액션인지 알 때까지 대기합니다.
+카드를 공개하거나 표시하는 것은 즉시 발생됩니다. 모든 다른 액션은 당신이 그 것이 어떤 액션인지 알 때까지 대기합니다.
 
 > Revealing and displaying happen instantly. Every other action waits until you know what action it really is.
 
