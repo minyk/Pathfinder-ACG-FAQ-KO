@@ -1,6 +1,6 @@
 # 카드 질문: 스컬 \& 새클스 캐릭터 애드온 덱(Card Questions: Skull & Shackles Character Add-On Deck)
 
-## `Damiel`이 실제로 사용하지 않았지만 배니쉬되는 `Alchemical`카드를 리차지 할 수 있나요? 그런 카드들을 *반드시* 리차지해야 하나요(Can Damiel recharge Alchemical cards that he banishes even when he doesn't actually play those cards? And does he *have* to recharge them)?
+## `Damiel`이 실제로 사용하지 않았지만 배니쉬되는 `Alchemical`카드를 재충전 할 수 있나요? 그런 카드들을 *반드시* 재충전 해야 하나요(Can Damiel recharge Alchemical cards that he banishes even when he doesn't actually play those cards? And does he *have* to recharge them)?
 
 아니오.
 
@@ -10,7 +10,7 @@
 
 posted Sep 18, 2014 | back to top
 
-## `Damiel`은 `Arcane`이나 `Divine` 이 있는 주문을 파워에서 얻는 스킬로 리차지할 수 있나요(Can Damiel recharge spells with the Arcane or Divine skill he gains)?
+## `Damiel`은 `Arcane`이나 `Divine` 이 있는 주문을 파워에서 얻는 스킬로 재충전 할 수 있나요(Can Damiel recharge spells with the Arcane or Divine skill he gains)?
 
 예.
 

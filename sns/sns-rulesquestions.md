@@ -144,7 +144,7 @@ posted Jan 5, 2015 | back to top
 
 posted Apr 27, 2015 | back to top
 
-## 어떤 카드가 `이 카드를 리차지하여 당신의 버린 더미에 있는 카드를 라치지합니다`라고 한다면 어떤 카드를 먼저 리차지해야 합니까(If a card says something like "Recharge this card to recharge a card from your discard pile," in what order do I put the recharged cards on the bottom of my deck)?
+## 어떤 카드가 `이 카드를 재충전하여 당신의 버린 더미에 있는 카드를 라치지합니다`라고 한다면 어떤 카드를 먼저 재충전해야 합니까(If a card says something like "Recharge this card to recharge a card from your discard pile," in what order do I put the recharged cards on the bottom of my deck)?
 
 먼저 발생한 액션을 먼저 합니다. 손에서 사용한 카드가 먼저 덱의 밑 바닥으로 가고, 버린 더미에서 온 카드가 그 밑으로 놓여집니다.
 
@@ -343,9 +343,9 @@ posted Oct 14, 2014 | back to top
 
 posted Apr 13, 2015 | back to top
 
-## 플레이 예제에서 몇몇 플레이어는 자신들이 사용한 카드를 리차지하는 것을 잊어버리고, 한 플레이어는 주사위를 굴릴때 주사위를 빼고 굴렸고, "배니시"는 버려야 하는 카드에 사용되었습니다(In the Example of Play, some of the players forget to recharge the cards they play, one player leaves out a die when she rolls, and the word "banished" is used with a card that should be discarded).
+## 플레이 예제에서 몇몇 플레이어는 자신들이 사용한 카드를 재충전하는 것을 잊어버리고, 한 플레이어는 주사위를 굴릴때 주사위를 빼고 굴렸고, "배니시"는 버려야 하는 카드에 사용되었습니다(In the Example of Play, some of the players forget to recharge the cards they play, one player leaves out a die when she rolls, and the word "banished" is used with a card that should be discarded).
 
-하아. 실제 플레이에서는 카드를 리차지하는 것을 잊어버리고, 가끔은 주사위를 모자르게 굴리지만, 이런 것이 좋은 예라고 할 수는 없습니다(역자주: 플레이 예의 잘못된 부분을 수정하는 단락입니다. 별도의 번역은 생략하겠습니다).
+하아. 실제 플레이에서는 카드를 재충전하는 것을 잊어버리고, 가끔은 주사위를 모자르게 굴리지만, 이런 것이 좋은 예라고 할 수는 없습니다(역자주: 플레이 예의 잘못된 부분을 수정하는 단락입니다. 별도의 번역은 생략하겠습니다).
 
 > Sigh. While it's true that players sometimes forget to recharge the cards they play, and occasionally leave out dice, that doesn't really make for a good example.
 

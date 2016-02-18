@@ -184,7 +184,7 @@ posted Tuesday | back to top
 
 posted Sep 12, 2014 | back to top
 
-## `Call Weapon`을 `bury` 할 때에도 리차지를 시도할 수 있나요(Can I try to recharge Call Weapon after burying it)?
+## `Call Weapon`을 `bury` 할 때에도 재충전를 시도할 수 있나요(Can I try to recharge Call Weapon after burying it)?
 
 예
 
