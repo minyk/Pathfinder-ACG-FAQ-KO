@@ -51,3 +51,4 @@ crashlytics-build.properties
 _book
 *.pdf
 *.epub
+build.sh
