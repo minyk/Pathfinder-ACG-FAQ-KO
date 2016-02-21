@@ -168,7 +168,7 @@ posted Apr 27, 2015 | back to top
 
 ## 만일 인카운팅한 카드가 턴을 끝낸다면, 그 카드는 물리친 것인지, 물리치지 못한건가요(If a card I'm encountering tells me to end my turn, is that card defeated or undefeated)?
 
-양쪽 다 아니며, 카드가 나온 장소 덱으로 다시 섞여 들어갑니다(소환되었다면 배니시됩니다).
+양쪽 다 아니며, 카드가 나온 장소 덱으로 다시 섞여 들어갑니다(소환되었다면 제거됩니다).
 
 > It's neither defeated nor undefeated, and it gets shuffled back into the location deck it came from (or if it was summoned, it gets banished).
 
@@ -247,7 +247,7 @@ posted Mar 30, 2015 | back to top
 
 posted Jan 5, 2015 | back to top
 
-## 규칙에서는 소환된 카드는 "다른 설명이 없으면" 배니시 하라고 되어 있습니다만, 어떤 것을 다른 설명으로 봐야 하는지 불분명합니다. 예를 들어 캐릭터에 몬스터를 손패로 넣는 파워가 있다면 이 능력은 소환된 몬스터에도 적용이 되나요(The rules say that summoned cards are banished "unless I'm instructed otherwise," but it's not clear what counts as being instructed otherwise. For example, if my character has a power that lets him put a monster into his hand, does that apply to summoned monsters)?
+## 규칙에서는 소환된 카드는 "다른 설명이 없으면" 제거 하라고 되어 있습니다만, 어떤 것을 다른 설명으로 봐야 하는지 불분명합니다. 예를 들어 캐릭터에 몬스터를 손패로 넣는 파워가 있다면 이 능력은 소환된 몬스터에도 적용이 되나요(The rules say that summoned cards are banished "unless I'm instructed otherwise," but it's not clear what counts as being instructed otherwise. For example, if my character has a power that lets him put a monster into his hand, does that apply to summoned monsters)?
 
 아니오. "다른 설명"을 허가하는 유일한 카드는 소환을 한 카드입니다.
 
@@ -269,7 +269,7 @@ posted Oct 17, 2014 | back to top
 
 ## 둘 이상의 `Villain`이 있는 시나리오에서 같은 장소에 하나 이상의 `Villain`이 있고, 다른 장소들은 모두 닫혀 있다면, 그 장소는 닫을 수 없습니다. 이때 `Villain`을 물리치면 열려있는 하나의 장소로 도망치기 때문에 이후의 게임동안 그 장소 덱에는 `Villain`만 남게 되고 시나리오를 끝낼 수 없습니다. 어떻게 해야 하나요(In a scenario with multiple villains, if more than one is in the same location, and all other locations are closed, that location doesn't get closed. So when you defeat one villain, he will always escape back to it, leaving multiple villains as the only cards in the deck for the rest of the game, rendering the scenario unwinnable. That's bad, right)?
 
-이런 문제를 피하기 위해 주의 깊에 만들었지만, 규칙을 바꾸어 문제를 해결할 수 있도록 합시다: `Villain`이 도망갈 다른 열린 장소가 없다면 `Villain`을 배니시합니다.
+이런 문제를 피하기 위해 주의 깊에 만들었지만, 규칙을 바꾸어 문제를 해결할 수 있도록 합시다: `Villain`이 도망갈 다른 열린 장소가 없다면 `Villain`을 제거합니다.
 
 > Yeah, that's not good. We've been careful to engineer scenarios to avoid that issue, but a change to the rulebook should address that problem for good.
 
@@ -343,7 +343,7 @@ posted Oct 14, 2014 | back to top
 
 posted Apr 13, 2015 | back to top
 
-## 플레이 예제에서 몇몇 플레이어는 자신들이 사용한 카드를 재충전하는 것을 잊어버리고, 한 플레이어는 주사위를 굴릴때 주사위를 빼고 굴렸고, "배니시"는 버려야 하는 카드에 사용되었습니다(In the Example of Play, some of the players forget to recharge the cards they play, one player leaves out a die when she rolls, and the word "banished" is used with a card that should be discarded).
+## 플레이 예제에서 몇몇 플레이어는 자신들이 사용한 카드를 재충전하는 것을 잊어버리고, 한 플레이어는 주사위를 굴릴때 주사위를 빼고 굴렸고, "제거"가 버려야 하는 카드에 사용되었습니다(In the Example of Play, some of the players forget to recharge the cards they play, one player leaves out a die when she rolls, and the word "banished" is used with a card that should be discarded).
 
 하아. 실제 플레이에서는 카드를 재충전하는 것을 잊어버리고, 가끔은 주사위를 모자르게 굴리지만, 이런 것이 좋은 예라고 할 수는 없습니다(역자주: 플레이 예의 잘못된 부분을 수정하는 단락입니다. 별도의 번역은 생략하겠습니다).
 

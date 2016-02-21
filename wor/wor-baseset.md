@@ -97,7 +97,7 @@ posted Nov 3, 2015 | back to top
 
 ## `Elven Entanglement` 시나리오에서 `Animal`을 인카운터 한 후 대신 `Carnivorous Stump`를 소환하면 앞서 인카운터한 `Animal`은 어떻게 되나요(In the Elven Entanglement, when I would encounter an Animal but summon a Carnivorous Stump instead, what happens to the Animal)?
 
-배니시 합니다.
+제거 합니다.
 
 > Banish the Animal.
 

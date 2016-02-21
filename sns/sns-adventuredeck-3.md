@@ -52,7 +52,7 @@ posted Jan 20, 2015 | back to top
 
 posted Thu, Feb 4, 2016 | back to top
 
-## 만약 `Arcane`이나 `Divine` 스킬이 없으면, `Freezing Sphere` 카드의 디스카드 능력을 사용하여 주사위를 추가하고 카드를 배니시 하는 것을 막을 수 있나요(If I don't have the Arcane or Divine skill, can I discard Freezing Sphere for its additional damage and thus avoid having to banish the card)?
+## 만약 `Arcane`이나 `Divine` 스킬이 없으면, `Freezing Sphere` 카드의 디스카드 능력을 사용하여 주사위를 추가하고 카드를 제거하는 것을 막을 수 있나요(If I don't have the Arcane or Divine skill, can I discard Freezing Sphere for its additional damage and thus avoid having to banish the card)?
 
 아니오, 주문을 플레이하면, 그것은 항상 파워의 마지막 부분을 발동시킵니다.
 

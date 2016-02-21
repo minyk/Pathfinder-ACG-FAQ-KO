@@ -34,7 +34,7 @@ posted Sep 2, 2014 | back to top
 
 ## `Lini`의 `Aquamancer` 역할은 물리친 `Aquatic` 몬스터를 본패에 넣을 수 있는 파워가 있습니다. 이 능력이 도망가는 `Villain`에게도 적용이 되나요(Lini's Aquamancer role has a power that lets her put an Aquatic monster she defeated into her hand. Does that apply to escaping villains, too)?
 
-아니오, 배니시되는 몬스터에만 적용됩니다.
+아니오, 제거되는 몬스터에만 적용됩니다.
 
 > No, only to monsters that would otherwise be banished.
 
