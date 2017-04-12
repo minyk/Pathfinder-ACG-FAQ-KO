@@ -30,6 +30,16 @@ posted Oct 15, 2014 | back to top
 
 posted Mar 9, 2015 | back to top
 
+## 체크에 직접적으로 영향을 주지 않기 때문에 체크를 하는 동안 `Rage` 카드를 플레이할 수 없어 보입니다. 그렇다면, 체크에 영향을 주는 무언가(카드를 매장하는 등)의 행동이 필요합니다It appears that I can't play Rage during a check because it doesn't directly affect the check. That is, it requires the person to do something—bury a card—to affect the check).
+
+*역자주-다음과 같이 플레이하세요 "이 카드를 당신의 장소에 있는 캐릭터의 덱 옆에 표시합니다; 당신은 이 카드를 그 캐릭터의 체크동안 사용할 수 있습니다."*
+
+> We want you to be able to play it during a check.
+
+> Resolution: On the spell Rage, change "Display this card and choose a character at your location" to "Display this card next to the deck of a character at your location; you may play this card during her check".
+
+posted Aug 15, 2016 | back to top
+
 ## `Sphere of Fire`를 사용하여 전투 체크를 할 때, 다른 스펠을 사용할 수 있나요? `Arcane`이나 `Divine`이 없을 떄, 카드를 `discard`하여 `banish`되는 걸 막을 수 있나요(If I make a combat check using Sphere of Fire, can I play another spell? If I don't have the Arcane or Divine skill, can I discard Sphere of Fire for its additional damage and thus avoid having to banish the card)?
 
 둘다 틀렸습니다. `Sphere of Fire`의 파워를 사용하는 것은 스펠을 사용하는 것으로 간주합니다. 그리고, `discard` 하면 파워의 마지막 부분을 수행해야 합니다.

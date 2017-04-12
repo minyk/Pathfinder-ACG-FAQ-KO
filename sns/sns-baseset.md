@@ -10,6 +10,16 @@
 
 posted Mar 23, 2015 | back to top
 
+## `Deadeye Lirianne`가 이동 후 이동한 장소의 카드를 확인한 하고 덱에 섞어 넣는 피트를 체크할 경우 무조건 섞어 넣어야 하나요(When Deadeye Lirianne takes the feat that lets her shuffle the card she examines into the deck, does she have to shuffle it)?
+
+아니오-선택 가능해야 합니다.
+
+> No—that should be optional.
+
+> Resolution: On the Deadeye side of Lirianne's role card, change "and shuffle it into the deck" to "and you may shuffle it into the deck".
+
+posted Apr 13, 2016 | back to top
+
 ## "손패를 리셋하기 전"은 단계가 아니기 때문에 `Seltyiel`의 주문 교환 파워는 원하는 만큼 사용할 수 있나요(Since “before I reset my hand” is not part of a step, can I use Seltyiel’s spell recharge power as many times as I want)?
 
 아니오-단 한번만 사용할 수 있습니다. `end of your turn`을 변경했기 때문에 이제 단계의 안에서 일어납니다.
@@ -19,6 +29,16 @@ posted Mar 23, 2015 | back to top
 > Resolution: On Seltyiel’s character and both sides of his role card, change “before you reset your hand” to “at the end of your turn.”
 
 posted Sep 18, 2014 | back to top
+
+## 다른 캐릭터가 빌런과 조우했을 때 `Valeros the Tactician`은 캐릭터들이 임시 폐쇄를 시도하기 전에 이동해야 하나요(When another character encounters a villain, can Valeros the Tactician move before characters attempt to temporarily close their locations)?
+
+예
+
+Yes.
+
+Resolution: On the Tactician side of Valeros's role card, change "When another character encounters a villain, you may immediately move" to "When another character flips over a villain, you may immediately move".
+
+posted Dec 7, 2016 | back to top
 
 ## `Sunken Treasure` 시나리오에서 장소 덱의 카드를 확인한 후 그 카드는 카드가 나온 덱으로 가야 하나요, 제 위치의 장소 덱으로 가야 하나요(In the Sunken Treasure scenario, after I examine a location deck, do I shuffle its cards back into the location they came from, or into the location I'm at)?
 
@@ -204,7 +224,7 @@ posted Oct 30, 2014 | back to top
 
 ## `Buckler Gun`은 `Piercing` 특성을 더해줘야 하지 않나요(Should the Buckler Gun add the Piercing trait to the check)?
 
-예. 
+예.
 
 > Yes.
 

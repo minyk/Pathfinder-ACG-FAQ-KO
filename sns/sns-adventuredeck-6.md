@@ -40,6 +40,22 @@ posted Wed, Feb 3, 2016 | back to top
 
 posted Mar 11, 2015 | back to top
 
+## `Lusca`는 세번의 전투 체크를 가지고 있고, "만일 패배하지 않으면 Lusca가 당신의 장소에 있는 각 캐릭터에게 피해를 줍니다." 라고 되어 있습니다. 이 문구는 모든 실패한 체크에 적용되어야 하나요(The Lusca has three combat checks, and says "if undefeated, the Lusca deals damage to each character at your location." Is the intent for that to apply to all failed checks)?
+
+예.
+
+> Yes.
+
+> Resolution: On the monster Lusca, replace the second power with the following two powers:
+
+```
+While you act, damage dealt by the Lusca is dealt to each character at this location.
+
+If undefeated, each character at your location must succeed at a Constitution or Fortitude 11 check or bury the top 1d4 cards of his deck.
+```
+
+posted Mar 6, 2017 | back to top
+
 ## `Pirate Sniper`의 "자신에게 1d4-1 원거리 공격"은 무었인가요(On Pirate Sniper, what does "1d4-1 Ranged Combat to you" mean)?
 
 "자신에게 1d4–1 `Ranged` `Combat damage`"를 의미합니다.
@@ -52,7 +68,7 @@ posted Mar 9, 2015 | back to top
 
 ## `Adamantine Trident +3`는 모든 사람이 인카운트한 모든 몬스터의 난이도 상승 효과를 무시할 수 있나요(Can the Adamantine Trident +3 ignore difficulty-increasing powers for any monster encountered by anyone)?
 
-아니오, 당신이 인카운터한 몬스터만 해당됩니다. 
+아니오, 당신이 인카운터한 몬스터만 해당됩니다.
 
 > No, just monsters you encounter. This power is intended to be part of the power above it, affecting only monsters against which you are currently attempting a check to defeat.
 

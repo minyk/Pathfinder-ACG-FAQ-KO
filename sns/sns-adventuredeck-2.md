@@ -62,10 +62,20 @@ posted Nov 6, 2014 | back to top
 
 ## `Jolly Roger`는 배에 대한 체크를 도와줍니다. 이것은 배를 소유하고 있는 나를 의미하나요, 혹은 카드를 플레이하는 사람을 의미하나요(Jolly Roger helps "your checks against ships." Does it mean "you, the party that owns the ship," or "you, the person who played the card")?
 
-그것은 그 카드를 플레이하는 사람을 의미합니다. 
+그것은 그 카드를 플레이하는 사람을 의미합니다.
 
 > It means the person who played the card. If we'd told you to display it next to your character instead of next to the ship, you probably wouldn't have thought twice about that...
 
 > Resolution: On the item Jolly Roger, change the power to "Display this card next to your character. While displayed, add 1d6 to your checks to defeat ships."
 
 posted Jan 5, 2015 | back to top
+
+## `Royster McCleagh` 카드를 반복해서 공개하여 버린 카드 더미의 `Aristocrat` 특성이 있는 모든 동료를 재충전 할 수 있나요(Can I repeatedly reveal Royster McCleagh to recharge all the allies that have the Aristocrat trait in my discard pile)?
+
+아니오 한 턴에 한번만 해야 합니다.
+
+> No—one per turn.
+
+> Resolution: On the ally Royster McCleagh, at the end of the first power, add "You may not use this power more than once per turn."
+
+posted May 2, 2016 | back to top

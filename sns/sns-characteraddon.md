@@ -20,6 +20,16 @@ posted Sep 18, 2014 | back to top
 
 posted Oct 10, 2014 | back to top
 
+## `Damiel the Chirurgeon`이 자신의 턴이 아닐 때 손패의 수를 늘리면, 자신의 턴 끝까지 유지가 되나요 혹은 그냥 그 턴에만 유지가 되나요(When Damiel the Chirurgeon increases his hand size and it's not his turn, does that last until the end of his turn, or just the end of that turn)?
+
+그냥 그 턴이 끝날 때까지만 유지됩니다.
+
+> Just until the end of that turn.
+
+> Resolution: On the Chirurgeon side of Damiel's role card, change the last power to "When you reset your hand, you may discard any number of cards; your hand size is increased by that number until the end of the turn."
+
+posted February 2016 | back to top
+
 ## `Lini`의 `Aquamancer` 역할은 배를 상대로 전투 체크를 할 때 도움이 되는 파워를 가지고 있지만, 배는 전투 체크가 없습니다. 어떻게 된 것인가요(Lini's Aquamancer role has a power that apparently helps combat checks against ships, but ships never have combat checks. What's the deal there)?
 
 그 파워는 전투 체크만이 아니라 배를 대상으로 하는 모든 체크에 도움을 줄 수 있습니다.

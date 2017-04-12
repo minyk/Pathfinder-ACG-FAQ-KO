@@ -2,7 +2,7 @@
 
 ## `Bizarre Love Triangle` 시나리오에 문제가 있습니다. 빌런을 물리쳤을때, 다른 효과로 인하여 물리쳐지지 않아도 빌런이 나온 장소를 닫도록 의도했나요(Bizarre Love Triangle has issues. Are you supposed to close the villain's location when you defeat it, even if it's undefeated)?
 
-빌런은 물리칠 수 없지 않습니다. 빌런을 물리치면 장소를 닫아야 합니다, 그리고 빌런을 물리친 이후 도망간다면, 블레싱 덱이 아니라 박스의 블레싱 카드를 사용해야 합니다. 
+빌런은 물리칠 수 없지 않습니다. 빌런을 물리치면 장소를 닫아야 합니다, 그리고 빌런을 물리친 이후 도망간다면, 블레싱 덱이 아니라 박스의 블레싱 카드를 사용해야 합니다.
 
 > The villain shouldn't be undefeated. You are supposed to close the location, and if it escapes after you defeat it, any blessings you use should come from the box, not the blessings deck.
 
@@ -71,6 +71,22 @@ posted Nov 6, 2014 | back to top
 > Resolution: On the ally Imp, add the Devil trait.
 
 posted Mon, May 11, 2015 | back to top
+
+## `Imp`를 전시할 때에 무한 반복을 막아야 하지 않나요(Shouldn't the Imp be displayed to prevent infinite cycling)?
+
+예. 그리고 조우할 때에도 하면 안됩니다.
+
+> Yes. It should also be disallowed during encounters.
+
+> Resolution: On the ally Imp, change the first two powers to:
+
+```
+You may not play this card during an encounter.
+
+Display this card to draw 1 or 2 cards. At the end of the turn, if you drew 1 card, recharge this card; if you drew 2 cards, discard this card.
+```
+
+posted Oct 7, 2016 | back to top
 
 ## `Slip`를 사용하여 내가 있는 장소 덱의 가장 위 카드를 확인할 때, 원하지 않아도 그 카드를 덱의 바닥에 놓기 위한 체크를 수행해야 하나요(When I use Slip to examine the top of my location deck, do I have to attempt the check to put the card on the bottom of the deck, even if I don't want to put the card on the bottom of the deck)?
 
